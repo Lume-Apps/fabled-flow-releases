@@ -1,5 +1,5 @@
 {
-  "version": "5.0",
+  "version": "5.1",
   "url": "https://github.com/Lume-Apps/fabled-flow-releases/releases/latest",
-  "notes": "Bigger microphone chip on the Flow Bar, Esc stops hands-free, more reliable pasting, feedback reports attach only feedback-box recordings."
+  "notes": "Free builds now run 90 days (set by the admin), with tamper-resistant expiry anchored to server time."
 }
