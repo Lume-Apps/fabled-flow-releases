@@ -1,5 +1,5 @@
 {
-  "version": "4.9",
+  "version": "5.0",
   "url": "https://github.com/Lume-Apps/fabled-flow-releases/releases/latest",
-  "notes": "First public release. On-device dictation with Parakeet v3, colorways, custom dictionary, snippets, AI formatting, and a built-in update checker."
+  "notes": "Bigger microphone chip on the Flow Bar, Esc stops hands-free, more reliable pasting, feedback reports attach only feedback-box recordings."
 }
