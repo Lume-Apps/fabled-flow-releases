@@ -1,5 +1,5 @@
 {
-  "version": "5.4",
+  "version": "5.5",
   "url": "https://github.com/Lume-Apps/fabled-flow-releases/releases/latest",
-  "notes": "Updates keep your remaining trial time; smarter paragraph breaks; capitalization and quiet-mic fixes."
+  "notes": "Dictated letters format themselves (greetings, sign-offs, bullets); long-item lists work; openings can never be dropped."
 }
