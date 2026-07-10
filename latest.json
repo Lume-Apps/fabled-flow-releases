@@ -1,5 +1,5 @@
 {
-  "version": "6.1",
+  "version": "6.2",
   "url": "https://github.com/Lume-Apps/fabled-flow-releases/releases/latest",
-  "notes": "AI formatting fast again (2.5s budget, warm model); clipboard never restored after you paste; real words never rewritten."
+  "notes": "AI casing fixed; menu bar shortcuts for Dictionary and Snippets; Mac/iPhone accuracy parity verified."
 }
