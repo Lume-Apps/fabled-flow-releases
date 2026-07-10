@@ -1,5 +1,5 @@
 {
-  "version": "6.2",
+  "version": "6.7",
   "url": "https://github.com/Lume-Apps/fabled-flow-releases/releases/latest",
-  "notes": "AI casing fixed; menu bar shortcuts for Dictionary and Snippets; Mac/iPhone accuracy parity verified."
+  "notes": "Better letter and list formatting; instant response after idle; AI mode no longer delays the pill; formatting fallback notice."
 }
