@@ -1,5 +1,5 @@
 {
-  "version": "5.6",
+  "version": "5.7",
   "url": "https://github.com/Lume-Apps/fabled-flow-releases/releases/latest",
-  "notes": "One dictionary entry fixes all spelling variants; the dictionary always beats AI formatting; duplicate protection."
+  "notes": "Fixes a dictionary-related freeze; smarter misspelling correction for preferred terms; sign-offs always become signatures."
 }
