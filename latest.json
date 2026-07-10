@@ -1,5 +1,5 @@
 {
-  "version": "5.8",
+  "version": "5.9",
   "url": "https://github.com/Lume-Apps/fabled-flow-releases/releases/latest",
-  "notes": "AI formatting can never lose a word; numbered lists from spoken ordinals; email subject lines."
+  "notes": "Emails and contracts format correctly end-to-end; lists stop at closings and new sections; verified with lifelike AI voices."
 }
