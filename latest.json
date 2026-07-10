@@ -1,5 +1,5 @@
 {
-  "version": "5.2",
+  "version": "5.3",
   "url": "https://github.com/Lume-Apps/fabled-flow-releases/releases/latest",
-  "notes": "Bullet lists now format reliably \u2014 pause-spoken items, 'about X, Y' lists, and short lists all work; AI formatting no longer cut off on slow runs."
+  "notes": "Concept lists with long phrases now bullet correctly; fewer false lists in ordinary sentences."
 }
