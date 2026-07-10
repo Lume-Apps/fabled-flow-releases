@@ -1,5 +1,5 @@
 {
-  "version": "6.0",
+  "version": "6.1",
   "url": "https://github.com/Lume-Apps/fabled-flow-releases/releases/latest",
-  "notes": "Correctly spelled words are never altered by misspelling correction; AI formatting verified to change layout only, never words."
+  "notes": "AI formatting fast again (2.5s budget, warm model); clipboard never restored after you paste; real words never rewritten."
 }
