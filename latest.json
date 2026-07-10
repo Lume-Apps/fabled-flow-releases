@@ -1,5 +1,5 @@
 {
-  "version": "5.1",
+  "version": "5.2",
   "url": "https://github.com/Lume-Apps/fabled-flow-releases/releases/latest",
-  "notes": "Free builds now run 90 days (set by the admin), with tamper-resistant expiry anchored to server time."
+  "notes": "Bullet lists now format reliably \u2014 pause-spoken items, 'about X, Y' lists, and short lists all work; AI formatting no longer cut off on slow runs."
 }
