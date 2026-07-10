@@ -1,5 +1,5 @@
 {
-  "version": "5.7",
+  "version": "5.8",
   "url": "https://github.com/Lume-Apps/fabled-flow-releases/releases/latest",
-  "notes": "Fixes a dictionary-related freeze; smarter misspelling correction for preferred terms; sign-offs always become signatures."
+  "notes": "AI formatting can never lose a word; numbered lists from spoken ordinals; email subject lines."
 }
