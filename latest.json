@@ -1,5 +1,5 @@
 {
-  "version": "5.9",
+  "version": "6.0",
   "url": "https://github.com/Lume-Apps/fabled-flow-releases/releases/latest",
-  "notes": "Emails and contracts format correctly end-to-end; lists stop at closings and new sections; verified with lifelike AI voices."
+  "notes": "Correctly spelled words are never altered by misspelling correction; AI formatting verified to change layout only, never words."
 }
