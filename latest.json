@@ -1,5 +1,5 @@
 {
-  "version": "6.7",
+  "version": "7.3",
   "url": "https://github.com/Lume-Apps/fabled-flow-releases/releases/latest",
-  "notes": "Better letter and list formatting; instant response after idle; AI mode no longer delays the pill; formatting fallback notice."
+  "notes": "Instant AI mode for plain speech; Chinese and Japanese formatting; accuracy safeguards; failed-paste recovery card; smarter clipboard."
 }
