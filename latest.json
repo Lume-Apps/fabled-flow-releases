@@ -1,5 +1,5 @@
 {
-  "version": "7.3",
+  "version": "7.4",
   "url": "https://github.com/Lume-Apps/fabled-flow-releases/releases/latest",
-  "notes": "Instant AI mode for plain speech; Chinese and Japanese formatting; accuracy safeguards; failed-paste recovery card; smarter clipboard."
+  "notes": "Dictations can never vanish silently \u2014 the recovery card catches every failed paste. Faster hotkey wake-up after idle."
 }
