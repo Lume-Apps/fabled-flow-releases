@@ -1,5 +1,5 @@
 {
-  "version": "7.4",
+  "version": "7.5",
   "url": "https://github.com/Lume-Apps/fabled-flow-releases/releases/latest",
-  "notes": "Dictations can never vanish silently \u2014 the recovery card catches every failed paste. Faster hotkey wake-up. Spoken decimals become numerals. Reliability refinements."
+  "notes": "Opening words never lost (mic wake-up compensated). Instantly ready for the next dictation. Traditional Chinese fixed. Delete downloaded AI models from Settings. Esc closes the recovery card."
 }
