@@ -1,5 +1,5 @@
 {
-  "version": "8.7",
+  "version": "8.8",
   "url": "https://github.com/Lume-Apps/fabled-flow-releases/releases/latest",
-  "notes": "Structural text guarantees (nothing invented, nothing lost), instant paste-help cards, stalled-app recovery, and full ISO currency support."
+  "notes": "Frozen-app detection: paste-help cards appear within seconds instead of after a silent wait."
 }
