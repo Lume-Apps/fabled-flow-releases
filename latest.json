@@ -1,5 +1,5 @@
 {
-  "version": "8.4",
+  "version": "8.5",
   "url": "https://github.com/Lume-Apps/fabled-flow-releases/releases/latest",
-  "notes": "Spoken IP addresses and versions (46.17.175.120, 1.2.3, 7.x), smarter website-name casing, instant paste-failure cards, interrupted dictations recovered on relaunch, and the minimum system drops to macOS 14."
+  "notes": "Built-in abbreviation lexicon (h t t p -> HTTP, iPhone/GitHub casings), 3D/4K/5G forms, lone-letter fixes (C -> see, R -> our), and a double-paste fix for apps with slow text boxes."
 }
