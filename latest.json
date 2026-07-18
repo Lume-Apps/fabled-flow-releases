@@ -1,5 +1,5 @@
 {
-  "version": "8.3",
+  "version": "8.4",
   "url": "https://github.com/Lume-Apps/fabled-flow-releases/releases/latest",
-  "notes": "Smarter paste recovery, spoken web addresses, phantom-word guardrails, optional email sign-in, faster hotkey wake-up."
+  "notes": "Spoken IP addresses and versions (46.17.175.120, 1.2.3, 7.x), smarter website-name casing, instant paste-failure cards, interrupted dictations recovered on relaunch, and the minimum system drops to macOS 14."
 }
