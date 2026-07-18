@@ -1,5 +1,5 @@
 {
-  "version": "8.5",
+  "version": "8.6",
   "url": "https://github.com/Lume-Apps/fabled-flow-releases/releases/latest",
-  "notes": "Built-in abbreviation lexicon (h t t p -> HTTP, iPhone/GitHub casings), 3D/4K/5G forms, lone-letter fixes (C -> see, R -> our), and a double-paste fix for apps with slow text boxes."
+  "notes": "Text can only land in the app you dictated into, false paste-failed cards fixed, and dictations process a touch faster."
 }
