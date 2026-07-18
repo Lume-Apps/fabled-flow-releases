@@ -1,5 +1,5 @@
 {
-  "version": "8.6",
+  "version": "8.7",
   "url": "https://github.com/Lume-Apps/fabled-flow-releases/releases/latest",
-  "notes": "Text can only land in the app you dictated into, false paste-failed cards fixed, and dictations process a touch faster."
+  "notes": "Structural text guarantees (nothing invented, nothing lost), instant paste-help cards, stalled-app recovery, and full ISO currency support."
 }
