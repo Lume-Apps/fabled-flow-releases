@@ -1,5 +1,5 @@
 {
   "version": "8.8",
   "url": "https://github.com/Lume-Apps/fabled-flow-releases/releases/latest",
-  "notes": "Frozen-app detection: paste-help cards appear within seconds instead of after a silent wait."
+  "notes": "Frozen-app detection, learn-from-corrections (on-device), two-letter country codes, and clearer privacy wording."
 }
