@@ -1,5 +1,5 @@
 {
-  "version": "8.8",
+  "version": "8.9",
   "url": "https://github.com/Lume-Apps/fabled-flow-releases/releases/latest",
-  "notes": "Frozen-app detection, learn-from-corrections (on-device), two-letter country codes, and clearer privacy wording."
+  "notes": "No more stray capitals after thinking pauses, faster silent-ending dictations, phantom polite closings removed, a three-dot verify indicator, and instant clipboard return."
 }
