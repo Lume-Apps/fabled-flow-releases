@@ -1,5 +1,7 @@
 {
   "version": "8.9",
   "url": "https://fabledflow.com/#download",
-  "notes": "No more stray capitals after thinking pauses, faster silent-ending dictations, phantom polite closings removed, a three-dot verify indicator, and instant clipboard return."
+  "notes": "No more stray capitals after thinking pauses, faster silent-ending dictations, phantom polite closings removed, a three-dot verify indicator, and instant clipboard return.",
+  "winVersion": "1.9",
+  "winUrl": "https://fabledflow.com/downloads/Fabled-Flow-Windows_win-v1.9_2026-07-20.zip"
 }
