@@ -1,9 +1,9 @@
 {
   "version": "9.0",
-  "build": 364,
+  "build": 368,
   "url": "https://github.com/Lume-Apps/fabled-flow-releases/releases/download/v9.0/Fabled-Flow_v9.0_2026-07-21.dmg",
-  "sha256": "3a791580f856f950d9c627e5cdf4547cab0a534317b439c3d76e0ed28de0da46",
-  "notes": "Fabled Flow now updates itself quietly, tidies stray copies, adds Country conventions (Thailand first), writes spoken math as formulas, and keeps every dictated word \u2014 see fabledflow.com/changelog.html#v9-0.",
+  "sha256": "2c843ba05bdd546445661c097a01b815d0b7309dfcb059dbc7b5cb55e04bf91e",
+  "notes": "Same-day correction: Fabled Flow no longer triggers macOS Downloads/Desktop folder prompts \u2014 dictation needs only the microphone and paste permission. Plus the full 9.0 fifth round.",
   "winVersion": "2.2",
   "winUrl": "https://github.com/Lume-Apps/fabled-flow-releases/releases/download/v9.0/Fabled-Flow-Windows_win-v2.2_2026-07-21.zip",
   "winSha256": "fde690bfc4df4b1ee4a04ab049003533c7863f4b81e6931c4c5e52e94f4880a7"
