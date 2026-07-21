@@ -1,7 +1,8 @@
 {
-  "version": "8.9",
+  "version": "9.0",
+  "build": 322,
   "url": "https://fabledflow.com/#download",
-  "notes": "No more stray capitals after thinking pauses, faster silent-ending dictations, phantom polite closings removed, a three-dot verify indicator, and instant clipboard return.",
-  "winVersion": "1.9",
-  "winUrl": "https://fabledflow.com/downloads/Fabled-Flow-Windows_win-v1.9_2026-07-20.zip"
+  "notes": "Codes and model numbers dictate correctly, spoken brackets and dashes work, addresses assemble lowercase, dots keep their count, stumbles clean up, and the first press after idle is instant.",
+  "winVersion": "2.0",
+  "winUrl": "https://fabledflow.com/downloads/Fabled-Flow-Windows_win-v2.0_2026-07-21.zip"
 }
