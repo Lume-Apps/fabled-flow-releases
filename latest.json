@@ -1,9 +1,9 @@
 {
   "version": "9.3",
-  "build": 406,
+  "build": 408,
   "url": "https://github.com/Lume-Apps/fabled-flow-releases/releases/download/v9.3/Fabled-Flow_v9.3_2026-07-26.dmg",
-  "sha256": "d790820a8eca66bce780ce68bcc71db1820f5f631803896b5076d0a729a009dc",
-  "notes": "Quote pairing, star codes (*5B), unit numbers (24-15), smarter Thailand addresses, a paste-rescue fix, and the Windows reliability chain. See fabledflow.com/changelog.html#v9-3.",
+  "sha256": "74c96857aa2ed1de189fce72fd181a3bd0389f3bf55e1b319e06d822ba208eda",
+  "notes": "9.3 refresh: pressing Check for updates now installs immediately with a plain status; multi-user Macs no longer wait on each other.",
   "winVersion": "2.5",
   "winUrl": "https://github.com/Lume-Apps/fabled-flow-releases/releases/download/v9.3/Fabled-Flow-Windows_win-v2.5_2026-07-26.zip",
   "winSha256": "3179f59cbdcbaf50c14ce80a9b82c1bac26c95fc42fc9f7776e020c365ad47bb"
