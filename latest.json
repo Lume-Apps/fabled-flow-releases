@@ -1,7 +1,7 @@
 {
   "version": "9.3",
   "build": 418,
-  "url": "https://github.com/Lume-Apps/fabled-flow-releases/releases/download/v9.3/Fabled-Flow_v9.3_2026-07-26.dmg",
+  "url": "https://github.com/Lume-Apps/fabled-flow-releases/releases/download/v9.3/Fabled-Flow_v9.3_2026-07-26_b418.dmg",
   "sha256": "f37b0671f3b8b35783efb416a2be62e9e09a23665262e8014e45b9fe96aa3af8",
   "notes": "9.3 refresh: multi-user Macs no longer show \"not responding\" after a new build is dropped in while another account runs the app \u2014 plus one-button updates that survive restarts and never download twice.",
   "winVersion": "2.5",
