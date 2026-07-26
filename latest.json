@@ -1,10 +1,10 @@
 {
-  "version": "9.2",
-  "build": 399,
-  "url": "https://github.com/Lume-Apps/fabled-flow-releases/releases/download/v9.2/Fabled-Flow_v9.2_2026-07-26.dmg",
-  "sha256": "64ca19bcf74655eed35b64bfe89852fc06869f3103a28f34012ea6f9e18ccf0f",
-  "notes": "9.2 refreshed build: corrected tester consent wording (data available, retrieved only on your report or request; report errors promptly) and the up-to-date check now names the build.",
-  "winVersion": "2.4",
-  "winUrl": "https://github.com/Lume-Apps/fabled-flow-releases/releases/download/v9.2/Fabled-Flow-Windows_win-v2.4_2026-07-26.zip",
-  "winSha256": "3c85720f1b65c01adaeba73b947d2a58bbc837d626df744af54975feaa0dfd4a"
+  "version": "9.3",
+  "build": 406,
+  "url": "https://github.com/Lume-Apps/fabled-flow-releases/releases/download/v9.3/Fabled-Flow_v9.3_2026-07-26.dmg",
+  "sha256": "d790820a8eca66bce780ce68bcc71db1820f5f631803896b5076d0a729a009dc",
+  "notes": "Quote pairing, star codes (*5B), unit numbers (24-15), smarter Thailand addresses, a paste-rescue fix, and the Windows reliability chain. See fabledflow.com/changelog.html#v9-3.",
+  "winVersion": "2.5",
+  "winUrl": "https://github.com/Lume-Apps/fabled-flow-releases/releases/download/v9.3/Fabled-Flow-Windows_win-v2.5_2026-07-26.zip",
+  "winSha256": "3179f59cbdcbaf50c14ce80a9b82c1bac26c95fc42fc9f7776e020c365ad47bb"
 }
