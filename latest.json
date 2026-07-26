@@ -1,10 +1,10 @@
 {
-  "version": "9.0",
-  "build": 368,
-  "url": "https://github.com/Lume-Apps/fabled-flow-releases/releases/download/v9.0/Fabled-Flow_v9.0_2026-07-21.dmg",
-  "sha256": "2c843ba05bdd546445661c097a01b815d0b7309dfcb059dbc7b5cb55e04bf91e",
-  "notes": "Same-day correction: Fabled Flow no longer triggers macOS Downloads/Desktop folder prompts \u2014 dictation needs only the microphone and paste permission. Plus the full 9.0 fifth round.",
-  "winVersion": "2.2",
-  "winUrl": "https://github.com/Lume-Apps/fabled-flow-releases/releases/download/v9.0/Fabled-Flow-Windows_win-v2.2_2026-07-21.zip",
-  "winSha256": "fde690bfc4df4b1ee4a04ab049003533c7863f4b81e6931c4c5e52e94f4880a7"
+  "version": "9.1",
+  "build": 385,
+  "url": "https://github.com/Lume-Apps/fabled-flow-releases/releases/download/v9.1/Fabled-Flow_v9.1_2026-07-26.dmg",
+  "sha256": "6f085e13ff333f11e1341e5d564e042ab728f03a6c75e12a77105425a3656e11",
+  "notes": "Country conventions for China, Hong Kong and Japan; spoken punctuation just works (with a friendly tip); a real account screen with honest removal; History playback; consent-gated tester mode. See fabledflow.com/changelog.html#v9-1.",
+  "winVersion": "2.3",
+  "winUrl": "https://github.com/Lume-Apps/fabled-flow-releases/releases/download/v9.1/Fabled-Flow-Windows_win-v2.3_2026-07-26.zip",
+  "winSha256": "c783beb5d8a5696751c4117b9fdb86fcb44580f1f46bf677091262d8aac3fe9c"
 }
