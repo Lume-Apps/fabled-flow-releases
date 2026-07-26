@@ -1,10 +1,10 @@
 {
   "version": "9.2",
-  "build": 394,
+  "build": 399,
   "url": "https://github.com/Lume-Apps/fabled-flow-releases/releases/download/v9.2/Fabled-Flow_v9.2_2026-07-26.dmg",
-  "sha256": "fd5b224713dab427da31758d18946331ac328142de8d14afbecebfbc4dc71883",
-  "notes": "Addresses keep their lowercase, form boxes lose the unwanted full stop, Check for updates installs in the background, and multi-user Macs update safely. See fabledflow.com/changelog.html#v9-2.",
+  "sha256": "64ca19bcf74655eed35b64bfe89852fc06869f3103a28f34012ea6f9e18ccf0f",
+  "notes": "9.2 refreshed build: corrected tester consent wording (data available, retrieved only on your report or request; report errors promptly) and the up-to-date check now names the build.",
   "winVersion": "2.4",
   "winUrl": "https://github.com/Lume-Apps/fabled-flow-releases/releases/download/v9.2/Fabled-Flow-Windows_win-v2.4_2026-07-26.zip",
-  "winSha256": "d178b522faa7473f21d97c7ed6ae529df248a99743029ad128e3e68dae3ff592"
+  "winSha256": "3c85720f1b65c01adaeba73b947d2a58bbc837d626df744af54975feaa0dfd4a"
 }
