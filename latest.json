@@ -1,9 +1,9 @@
 {
   "version": "9.3",
-  "build": 409,
+  "build": 412,
   "url": "https://github.com/Lume-Apps/fabled-flow-releases/releases/download/v9.3/Fabled-Flow_v9.3_2026-07-26.dmg",
-  "sha256": "6e602fd25b4633e6295d0df86294d7b7104c86dc2e0be5829d69f088b50b5343",
-  "notes": "9.3 refresh: downloaded updates survive restarts and never download twice; an Update now button installs immediately when you want it; clearer wording.",
+  "sha256": "016e4827319a1f6815dde16794e278cae35045f7919337d039907235ae94193f",
+  "notes": "9.3 refresh: downloaded updates survive restarts, never download twice, Update now button, one-button update UI, and installs never downgrade the shared copy on multi-user Macs.",
   "winVersion": "2.5",
   "winUrl": "https://github.com/Lume-Apps/fabled-flow-releases/releases/download/v9.3/Fabled-Flow-Windows_win-v2.5_2026-07-26.zip",
   "winSha256": "3179f59cbdcbaf50c14ce80a9b82c1bac26c95fc42fc9f7776e020c365ad47bb"
