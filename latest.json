@@ -1,10 +1,10 @@
 {
-  "version": "9.3",
-  "build": 418,
-  "url": "https://github.com/Lume-Apps/fabled-flow-releases/releases/download/v9.3/Fabled-Flow_v9.3_2026-07-26_b418.dmg",
-  "sha256": "f37b0671f3b8b35783efb416a2be62e9e09a23665262e8014e45b9fe96aa3af8",
-  "notes": "9.3 refresh: multi-user Macs no longer show \"not responding\" after a new build is dropped in while another account runs the app \u2014 plus one-button updates that survive restarts and never download twice.",
-  "winVersion": "2.5",
-  "winUrl": "https://github.com/Lume-Apps/fabled-flow-releases/releases/download/v9.3/Fabled-Flow-Windows_win-v2.5_2026-07-26.zip",
-  "winSha256": "3179f59cbdcbaf50c14ce80a9b82c1bac26c95fc42fc9f7776e020c365ad47bb"
+  "version": "9.4",
+  "build": 460,
+  "url": "https://github.com/Lume-Apps/fabled-flow-releases/releases/download/v9.4/Fabled-Flow_v9.4_2026-07-27_b460.dmg",
+  "sha256": "6e11c50629c5d90a9560aae84970b60581e9f24aab7c740911f82e54aa57c0c8",
+  "notes": "9.4: cut-off endings now recover even when the last word was misheard; the paste-help card pastes on a click anywhere; tester diagnostics respond in seconds.",
+  "winVersion": "2.6",
+  "winUrl": "https://github.com/Lume-Apps/fabled-flow-releases/releases/download/v9.4/Fabled-Flow-Windows_win-v2.6_2026-07-27.zip",
+  "winSha256": "d81657799c79600015265408fc2e76cd3f93b8c15c10ce16b78a1386c61b2c93"
 }
