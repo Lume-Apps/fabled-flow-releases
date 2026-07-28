@@ -1,9 +1,9 @@
 {
-  "version": "9.4",
-  "build": 460,
-  "url": "https://github.com/Lume-Apps/fabled-flow-releases/releases/download/v9.4/Fabled-Flow_v9.4_2026-07-27_b460.dmg",
-  "sha256": "6e11c50629c5d90a9560aae84970b60581e9f24aab7c740911f82e54aa57c0c8",
-  "notes": "9.4: cut-off endings now recover even when the last word was misheard; the paste-help card pastes on a click anywhere; tester diagnostics respond in seconds.",
+  "version": "9.5",
+  "build": 464,
+  "url": "https://github.com/Lume-Apps/fabled-flow-releases/releases/download/v9.5/Fabled-Flow_v9.5_2026-07-28_b464.dmg",
+  "sha256": "0ca505ec5749739817504c8f68e82e23fb14de10c1115e1c5bf37dc5f6717474",
+  "notes": "9.5: updates are now all-or-nothing \u2014 a failed update can never damage the app, and any admin account on a shared Mac can install updates.",
   "winVersion": "2.6",
   "winUrl": "https://github.com/Lume-Apps/fabled-flow-releases/releases/download/v9.4/Fabled-Flow-Windows_win-v2.6_2026-07-27.zip",
   "winSha256": "d81657799c79600015265408fc2e76cd3f93b8c15c10ce16b78a1386c61b2c93"
