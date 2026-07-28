@@ -1,9 +1,9 @@
 {
-  "version": "9.5",
-  "build": 464,
-  "url": "https://github.com/Lume-Apps/fabled-flow-releases/releases/download/v9.5/Fabled-Flow_v9.5_2026-07-28_b464.dmg",
-  "sha256": "0ca505ec5749739817504c8f68e82e23fb14de10c1115e1c5bf37dc5f6717474",
-  "notes": "9.5: updates are now all-or-nothing \u2014 a failed update can never damage the app, and any admin account on a shared Mac can install updates.",
+  "version": "9.6",
+  "build": 476,
+  "url": "https://github.com/Lume-Apps/fabled-flow-releases/releases/download/v9.6/Fabled-Flow_v9.6_2026-07-29_b476.dmg",
+  "sha256": "00a681025ae7330e049e903ba4471f4c84dbf563a1111e861a5811a34f866e43",
+  "notes": "9.6: a network hiccup can no longer make the app retry its helper connection dozens of times a second \u2014 retries are now quiet and battery-friendly.",
   "winVersion": "2.6",
   "winUrl": "https://github.com/Lume-Apps/fabled-flow-releases/releases/download/v9.4/Fabled-Flow-Windows_win-v2.6_2026-07-27.zip",
   "winSha256": "d81657799c79600015265408fc2e76cd3f93b8c15c10ce16b78a1386c61b2c93"
