@@ -4,8 +4,9 @@
   "url": "https://github.com/Lume-Apps/fabled-flow-releases/releases/download/v9.6/Fabled-Flow_v9.6_2026-07-29_b481.dmg",
   "sha256": "05f6027daac4688fd7179eeded2f803e80bb49b93af7efeac700c958fa91f8a1",
   "notes": "9.6: updates now install themselves reliably on Macs with several user accounts \u2014 including accounts that aren't administrators \u2014 checks run hourly, and downloads have a backup source. Plus quieter, battery-friendly connection retries.",
-  "winVersion": "2.6",
-  "winUrl": "https://github.com/Lume-Apps/fabled-flow-releases/releases/download/v9.4/Fabled-Flow-Windows_win-v2.6_2026-07-27.zip",
-  "winSha256": "d81657799c79600015265408fc2e76cd3f93b8c15c10ce16b78a1386c61b2c93",
-  "mirrorUrl": "https://fabledflow.com/downloads/Fabled-Flow_v9.6_2026-07-29_b481.dmg"
+  "winVersion": "2.7",
+  "winUrl": "https://github.com/Lume-Apps/fabled-flow-releases/releases/download/v9.6/Fabled-Flow-Windows_win-v2.7_2026-07-29.zip",
+  "winSha256": "c2deb3d968151f8ecb69ccec06160c05615bb359a15e499d83e2724ba6d77588",
+  "mirrorUrl": "https://fabledflow.com/downloads/Fabled-Flow_v9.6_2026-07-29_b481.dmg",
+  "winMirrorUrl": "https://fabledflow.com/downloads/Fabled-Flow-Windows_win-v2.7_2026-07-29.zip"
 }
