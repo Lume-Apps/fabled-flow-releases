@@ -4,9 +4,9 @@
   "url": "https://github.com/Lume-Apps/fabled-flow-releases/releases/download/v9.7/Fabled-Flow_v9.7_2026-07-29_b511.dmg",
   "sha256": "640629bf5d1342f9186f32521f76484e5fc40060006333c257d8b3a7f6f28fca",
   "notes": "9.7: cleaner stumble handling with a new Remove-stutters switch, letter+number codes written together (W3, F5), impossible-grammar and a/an fixes, a light mode that follows your Mac, recoverable safety-check holds, dictionary suggestions you approve yourself \u2014 and the app finished its internal name, so macOS asks once more for its permissions.",
-  "winVersion": "2.7",
-  "winUrl": "https://github.com/Lume-Apps/fabled-flow-releases/releases/download/v9.6/Fabled-Flow-Windows_win-v2.7_2026-07-29.zip",
-  "winSha256": "c2deb3d968151f8ecb69ccec06160c05615bb359a15e499d83e2724ba6d77588",
+  "winVersion": "2.8",
+  "winUrl": "https://github.com/Lume-Apps/fabled-flow-releases/releases/download/v9.7/Fabled-Flow-Windows_win-v2.8_2026-07-29.zip",
+  "winSha256": "13730600ab2fd8253648d694c5fc8b3154f1d4b6b28f0312280919a23c732aed",
   "mirrorUrl": "https://fabledflow.com/downloads/Fabled-Flow_v9.7_2026-07-29_b511.dmg",
-  "winMirrorUrl": "https://fabledflow.com/downloads/Fabled-Flow-Windows_win-v2.7_2026-07-29.zip"
+  "winMirrorUrl": "https://fabledflow.com/downloads/Fabled-Flow-Windows_win-v2.8_2026-07-29.zip"
 }
