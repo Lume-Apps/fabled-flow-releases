@@ -1,12 +1,12 @@
 {
   "version": "9.9",
-  "build": 533,
-  "url": "https://github.com/Lume-Apps/fabled-flow-releases/releases/download/v9.9/Fabled-Flow_v9.9_2026-07-30_b533.dmg",
-  "sha256": "56ece74d30ea4db7034880c0eb3cdaefd41fa95f6e6e14ec7938cf62a9af6ade",
-  "notes": "9.9: the hold assist \u2014 a slipped dictation key during a thinking pause no longer costs you a paragraph: a quick re-press continues the same dictation, and any missed slip is announced plainly. History entries expand reliably.",
+  "build": 549,
+  "url": "https://github.com/Lume-Apps/fabled-flow-releases/releases/download/v9.9/Fabled-Flow_v9.9_2026-07-31_b549.dmg",
+  "sha256": "3fb0a025b6f559615bc284e57ee9c4d9dc7f38bbfa0ea7774897ce07251e9cf4",
+  "notes": "9.9 refreshed build: the windowed long decode (long continuous dictations can no longer lose their endings \u2014 proven on real incident audio), quiet-but-confident speech is never discarded, a slipped dictation key resumes seamlessly, dropped pastes land through a window-wide accessibility search, the Fabled Flow Formatting Engine becomes the visible instant default, and a dozen smaller fixes from a full day of live incident work.",
   "winVersion": "3.0",
   "winUrl": "https://github.com/Lume-Apps/fabled-flow-releases/releases/download/v9.8/Fabled-Flow-Windows_win-v3.0_2026-07-30.zip",
   "winSha256": "4b5729c1efc2302354ec9b5950f91b03f96caa41c96dea5d479025cf03a23b69",
-  "mirrorUrl": "https://fabledflow.com/downloads/Fabled-Flow_v9.9_2026-07-30_b533.dmg",
+  "mirrorUrl": "https://fabledflow.com/downloads/Fabled-Flow_v9.9_2026-07-31_b549.dmg",
   "winMirrorUrl": "https://fabledflow.com/downloads/Fabled-Flow-Windows_win-v3.0_2026-07-30.zip"
 }
