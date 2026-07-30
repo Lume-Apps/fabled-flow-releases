@@ -1,12 +1,12 @@
 {
-  "version": "9.7",
-  "build": 511,
-  "url": "https://github.com/Lume-Apps/fabled-flow-releases/releases/download/v9.7/Fabled-Flow_v9.7_2026-07-29_b511.dmg",
-  "sha256": "640629bf5d1342f9186f32521f76484e5fc40060006333c257d8b3a7f6f28fca",
-  "notes": "9.7: cleaner stumble handling with a new Remove-stutters switch, letter+number codes written together (W3, F5), impossible-grammar and a/an fixes, a light mode that follows your Mac, recoverable safety-check holds, dictionary suggestions you approve yourself \u2014 and the app finished its internal name, so macOS asks once more for its permissions.",
-  "winVersion": "2.8",
-  "winUrl": "https://github.com/Lume-Apps/fabled-flow-releases/releases/download/v9.7/Fabled-Flow-Windows_win-v2.8_2026-07-29.zip",
-  "winSha256": "13730600ab2fd8253648d694c5fc8b3154f1d4b6b28f0312280919a23c732aed",
-  "mirrorUrl": "https://fabledflow.com/downloads/Fabled-Flow_v9.7_2026-07-29_b511.dmg",
-  "winMirrorUrl": "https://fabledflow.com/downloads/Fabled-Flow-Windows_win-v2.8_2026-07-29.zip"
+  "version": "9.8",
+  "build": 531,
+  "url": "https://github.com/Lume-Apps/fabled-flow-releases/releases/download/v9.8/Fabled-Flow_v9.8_2026-07-30_b531.dmg",
+  "sha256": "1b5280853bfafb08d4a7bd2dcac4d54c2c2d413b7682bb0f7af82981e71d6ea6",
+  "notes": "9.8: Apple-signed and notarized \u2014 downloads open with no warnings and permissions survive every update (one final re-grant, guided). Email and web addresses assemble correctly, very short dictations get a second local ear, dropped pastes land through a direct accessibility path, any dictation can be reported in one click, your clipboard is never confused with dictated text, and troubleshooting audio grew to 30 clips. Windows 3.0: the full desktop app reaches Mac parity.",
+  "winVersion": "3.0",
+  "winUrl": "https://github.com/Lume-Apps/fabled-flow-releases/releases/download/v9.8/Fabled-Flow-Windows_win-v3.0_2026-07-30.zip",
+  "winSha256": "4b5729c1efc2302354ec9b5950f91b03f96caa41c96dea5d479025cf03a23b69",
+  "mirrorUrl": "https://fabledflow.com/downloads/Fabled-Flow_v9.8_2026-07-30_b531.dmg",
+  "winMirrorUrl": "https://fabledflow.com/downloads/Fabled-Flow-Windows_win-v3.0_2026-07-30.zip"
 }
