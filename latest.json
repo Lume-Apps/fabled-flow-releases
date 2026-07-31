@@ -1,12 +1,12 @@
 {
   "version": "9.9",
-  "build": 568,
-  "url": "https://github.com/Lume-Apps/fabled-flow-releases/releases/download/v9.9/Fabled-Flow_v9.9_2026-07-31_b568.dmg",
-  "sha256": "75ca22193fb1b709738ea1a2dcb3bdc086ed20160077883ad7c597e57f07bccc",
-  "notes": "9.9 refreshed build: every fix from the latest day of live incident work reaches everyone \u2014 addresses you have taught the app heal correctly even when the engine mangles them, a paste can never be silently marked delivered while you are typing, long dictations no longer lose repeated phrases at window seams, emergency recoveries never surprise-paste (they go to History with a notice instead), and two engine glitch classes (glued commas, trailing hum artifacts) now clean themselves.",
+  "build": 600,
+  "url": "https://github.com/Lume-Apps/fabled-flow-releases/releases/download/v9.9/Fabled-Flow_v9.9_2026-07-31_b600.dmg",
+  "sha256": "9b9a955d11eeabd26c2b1ddc5805bc29067357143dd51bae943ff0a18522ea07",
+  "notes": "9.9 refreshed build: invented trailing words can no longer ride a rescue (two independent listens must agree), misheard non-words heal against the Mac's own living dictionary (rizz-proof), paste cards stop appearing over text that actually landed (three verification defects fixed), a slipped or rebuilt dictation key can never strand the recording pill, two app copies can never run at once, reported dictations show Reported in History, and History cards always grow around their text.",
   "winVersion": "3.0",
   "winUrl": "https://github.com/Lume-Apps/fabled-flow-releases/releases/download/v9.8/Fabled-Flow-Windows_win-v3.0_2026-07-30.zip",
   "winSha256": "4b5729c1efc2302354ec9b5950f91b03f96caa41c96dea5d479025cf03a23b69",
-  "mirrorUrl": "https://fabledflow.com/downloads/Fabled-Flow_v9.9_2026-07-31_b568.dmg",
+  "mirrorUrl": "https://fabledflow.com/downloads/Fabled-Flow_v9.9_2026-07-31_b600.dmg",
   "winMirrorUrl": "https://fabledflow.com/downloads/Fabled-Flow-Windows_win-v3.0_2026-07-30.zip"
 }
