@@ -1,12 +1,12 @@
 {
   "version": "9.9",
-  "build": 549,
-  "url": "https://github.com/Lume-Apps/fabled-flow-releases/releases/download/v9.9/Fabled-Flow_v9.9_2026-07-31_b549.dmg",
-  "sha256": "3fb0a025b6f559615bc284e57ee9c4d9dc7f38bbfa0ea7774897ce07251e9cf4",
-  "notes": "9.9 refreshed build: the windowed long decode (long continuous dictations can no longer lose their endings \u2014 proven on real incident audio), quiet-but-confident speech is never discarded, a slipped dictation key resumes seamlessly, dropped pastes land through a window-wide accessibility search, the Fabled Flow Formatting Engine becomes the visible instant default, and a dozen smaller fixes from a full day of live incident work.",
+  "build": 568,
+  "url": "https://github.com/Lume-Apps/fabled-flow-releases/releases/download/v9.9/Fabled-Flow_v9.9_2026-07-31_b568.dmg",
+  "sha256": "75ca22193fb1b709738ea1a2dcb3bdc086ed20160077883ad7c597e57f07bccc",
+  "notes": "9.9 refreshed build: every fix from the latest day of live incident work reaches everyone \u2014 addresses you have taught the app heal correctly even when the engine mangles them, a paste can never be silently marked delivered while you are typing, long dictations no longer lose repeated phrases at window seams, emergency recoveries never surprise-paste (they go to History with a notice instead), and two engine glitch classes (glued commas, trailing hum artifacts) now clean themselves.",
   "winVersion": "3.0",
   "winUrl": "https://github.com/Lume-Apps/fabled-flow-releases/releases/download/v9.8/Fabled-Flow-Windows_win-v3.0_2026-07-30.zip",
   "winSha256": "4b5729c1efc2302354ec9b5950f91b03f96caa41c96dea5d479025cf03a23b69",
-  "mirrorUrl": "https://fabledflow.com/downloads/Fabled-Flow_v9.9_2026-07-31_b549.dmg",
+  "mirrorUrl": "https://fabledflow.com/downloads/Fabled-Flow_v9.9_2026-07-31_b568.dmg",
   "winMirrorUrl": "https://fabledflow.com/downloads/Fabled-Flow-Windows_win-v3.0_2026-07-30.zip"
 }
