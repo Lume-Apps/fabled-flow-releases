@@ -2,7 +2,7 @@
   "version": "9.9",
   "build": 600,
   "url": "https://github.com/Lume-Apps/fabled-flow-releases/releases/download/v9.9/Fabled-Flow_v9.9_2026-07-31_b600.dmg",
-  "sha256": "9b9a955d11eeabd26c2b1ddc5805bc29067357143dd51bae943ff0a18522ea07",
+  "sha256": "3e1f858eb45aef9722fb0af491f35ac80510e098000c95ead6e373907beef902",
   "notes": "9.9 refreshed build: invented trailing words can no longer ride a rescue (two independent listens must agree), misheard non-words heal against the Mac's own living dictionary (rizz-proof), paste cards stop appearing over text that actually landed (three verification defects fixed), a slipped or rebuilt dictation key can never strand the recording pill, two app copies can never run at once, reported dictations show Reported in History, and History cards always grow around their text.",
   "winVersion": "3.2",
   "winUrl": "https://github.com/Lume-Apps/fabled-flow-releases/releases/download/v9.9/Fabled-Flow-Windows_win-v3.2_2026-07-31.zip",
