@@ -4,9 +4,9 @@
   "url": "https://github.com/Lume-Apps/fabled-flow-releases/releases/download/v10.1/Fabled-Flow_v10.1_2026-08-09_b748.dmg",
   "sha256": "7fd76bf521f165bf8bd66f683d417486715c8ce780831fd701fab0c4882e8860",
   "notes": "10.1: menu-open dictations can no longer lose text, your copied items stop being resurrected after you've used them, number echoes are refused, and accuracy is now measured on the complete industry test (96.9%) - see fabledflow.com/benchmarks.",
-  "winVersion": "3.4",
-  "winUrl": "https://github.com/Lume-Apps/fabled-flow-releases/releases/download/v10.1/Fabled-Flow-Windows_win-v3.4_2026-08-09.zip",
-  "winSha256": "e6fe7e6ca0c4624fc4df1d95045df9a33f32cfd455c85e986614e6f2aa64e858",
+  "winVersion": "3.5",
+  "winUrl": "https://fabledflow.com/downloads/Fabled-Flow-Windows_win-v3.5_2026-08-10.zip",
+  "winSha256": "472fbedb3e1490ea5e015ce3f05f874cb95db68616f223cef75ce30b026c737b",
   "mirrorUrl": "https://fabledflow.com/downloads/Fabled-Flow_v10.1_2026-08-09_b748.dmg",
-  "winMirrorUrl": "https://fabledflow.com/downloads/Fabled-Flow-Windows_win-v3.4_2026-08-09.zip"
+  "winMirrorUrl": "https://fabledflow.com/downloads/Fabled-Flow-Windows_win-v3.5_2026-08-10.zip"
 }
