@@ -1,12 +1,12 @@
 {
-  "version": "10.1",
-  "build": 748,
-  "url": "https://github.com/Lume-Apps/fabled-flow-releases/releases/download/v10.1/Fabled-Flow_v10.1_2026-08-09_b748.dmg",
-  "sha256": "7fd76bf521f165bf8bd66f683d417486715c8ce780831fd701fab0c4882e8860",
-  "notes": "10.1: menu-open dictations can no longer lose text, your copied items stop being resurrected after you've used them, number echoes are refused, and accuracy is now measured on the complete industry test (96.9%) - see fabledflow.com/benchmarks.",
+  "version": "10.2",
+  "build": 1014,
+  "url": "https://github.com/Lume-Apps/fabled-flow-releases/releases/download/v10.2/Fabled-Flow_v10.2_2026-08-12_b1014.dmg",
+  "sha256": "87a2eefc5b947b963599a0600c8fbd140c09d1731eb3a9e6a2cacc87a14b6533",
+  "notes": "10.2: long dictations now transcribe while you speak and paste almost instantly, interrupted dictations are recovered on next launch, the long-form accuracy hole class is fixed (a full audiobook went 84.9% to 95.0% correct), translate-as-you-speak (fn+X), read-back (fn+S), mixed Chinese/English formatting, Sign in with Apple, and the recovery card overhaul - see fabledflow.com/changelog.html#v10-2.",
   "winVersion": "3.5",
   "winUrl": "https://fabledflow.com/downloads/Fabled-Flow-Windows_win-v3.5_2026-08-10.zip",
   "winSha256": "59bf35fca330fe2c6e50ef851200ec4e08bfe21a59833146d69a2c060ce3d6e4",
-  "mirrorUrl": "https://fabledflow.com/downloads/Fabled-Flow_v10.1_2026-08-09_b748.dmg",
+  "mirrorUrl": "https://fabledflow.com/downloads/Fabled-Flow_v10.2_2026-08-12_b1014.dmg",
   "winMirrorUrl": "https://fabledflow.com/downloads/Fabled-Flow-Windows_win-v3.5_2026-08-10.zip"
 }
