@@ -1,12 +1,12 @@
 {
   "version": "10.4",
-  "build": 1542,
-  "url": "https://github.com/Lume-Apps/fabled-flow-releases/releases/download/v10.4/Fabled-Flow_v10.4_2026-08-20_b1542.dmg",
-  "sha256": "7a3cbb3c4ed97fc1b74223077f90d9064aaac0e77e5a893a84791a89e45c1f1e",
-  "notes": "10.4: the freeze-baseline release - every benchmark set's accuracy improved, the editor now beats or ties the raw engine nearly across the board, whole-utterance losses eliminated, the British-suffix repair bug fixed, and dozens of formatting laws hardened - see fabledflow.com/changelog.html#v10-4.",
+  "build": 1589,
+  "url": "https://fabledflow.com/downloads/Fabled-Flow_v10.4_2026-08-22_b1589.dmg",
+  "sha256": "1ce04961429af66d999e9570bb3e66beef9706f52d009eb1281a4720a8540f40",
+  "notes": "10.4 build refresh (2026-08-22): the mic fade-in boost is off by default (measured net harmful; the cause of the worst hallucination class), phantom-word protection widened to every word length at reading pauses, email dictation repaired, one-spoken-value duplicates collapse, the accent learner's arming rules hardened, and paste-recovery cards made accurate and journaled - see fabledflow.com/changelog.html#v10-4.",
   "winVersion": "3.5",
   "winUrl": "https://fabledflow.com/downloads/Fabled-Flow-Windows_win-v3.5_2026-08-10.zip",
   "winSha256": "59bf35fca330fe2c6e50ef851200ec4e08bfe21a59833146d69a2c060ce3d6e4",
-  "mirrorUrl": "https://fabledflow.com/downloads/Fabled-Flow_v10.4_2026-08-20_b1542.dmg",
+  "mirrorUrl": "https://fabledflow.com/downloads/Fabled-Flow_v10.4_2026-08-22_b1589.dmg",
   "winMirrorUrl": "https://fabledflow.com/downloads/Fabled-Flow-Windows_win-v3.5_2026-08-10.zip"
 }
