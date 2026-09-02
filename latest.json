@@ -1,12 +1,12 @@
 {
   "version": "10.4",
-  "build": 2649,
-  "url": "https://fabledflow.com/downloads/Fabled-Flow_v10.4_2026-09-01_b2649.dmg",
-  "sha256": "d32b5ca762a015d0ff80c4c0b0aff1dc02a4633636eeb2b6d20f70fe1bb69d26",
-  "notes": "10.4 build refresh (2026-09-01): the dev season's accumulated fixes in one notarized refresh - short recordings can no longer invent words (a padded decode plus a refusal guard for text the audio does not contain), the self-found review surface completed (review-state pills, sorting with live counts, click-to-seek error anchors in playback), percent and number formatting hardened as whole classes, email dictation welds names and domains correctly, clipboard handling round 2 with History search highlighting, and the paste-recovery card's Cmd-V restore. Notarized by Apple: macOS opens it without any warning - see fabledflow.com/changelog.html",
+  "build": 2671,
+  "url": "https://fabledflow.com/downloads/Fabled-Flow_v10.4_2026-09-01_b2671.dmg",
+  "sha256": "e82942e6e7959e73fd1684ad5c4d366a42a0df1b65cc066f29120eff1022aac4",
+  "notes": "10.4 build refresh (2026-09-01, b2671): the accuracy pair, notarized - abandoned words are finished the way you meant them (a word cut off mid-way is completed from context whenever most of it was spoken, in both stutter-setting states; only a small fragment follows the setting: ON removes it, OFF keeps it as heard), a real standalone word is never extended into a different longer word, every completion or removal is recorded for review with the raw transcript keeping what was actually said, and repairs can no longer be squeezed into silences too short to hold them (the refusal now happens before paste). Notarized by Apple: macOS opens it without any warning - see fabledflow.com/changelog.html",
   "winVersion": "3.5",
   "winUrl": "https://fabledflow.com/downloads/Fabled-Flow-Windows_win-v3.5_2026-08-10.zip",
   "winSha256": "59bf35fca330fe2c6e50ef851200ec4e08bfe21a59833146d69a2c060ce3d6e4",
-  "mirrorUrl": "https://fabledflow.com/downloads/Fabled-Flow_v10.4_2026-09-01_b2649.dmg",
+  "mirrorUrl": "https://github.com/Lume-Apps/fabled-flow-releases/releases/download/v10.4-b2671/Fabled-Flow_v10.4_2026-09-01_b2671.dmg",
   "winMirrorUrl": "https://fabledflow.com/downloads/Fabled-Flow-Windows_win-v3.5_2026-08-10.zip"
 }
