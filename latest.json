@@ -1,12 +1,12 @@
 {
   "version": "10.4",
-  "build": 2671,
-  "url": "https://fabledflow.com/downloads/Fabled-Flow_v10.4_2026-09-01_b2671.dmg",
-  "sha256": "e82942e6e7959e73fd1684ad5c4d366a42a0df1b65cc066f29120eff1022aac4",
-  "notes": "10.4 build refresh (2026-09-01, b2671): the accuracy pair, notarized - abandoned words are finished the way you meant them (a word cut off mid-way is completed from context whenever most of it was spoken, in both stutter-setting states; only a small fragment follows the setting: ON removes it, OFF keeps it as heard), a real standalone word is never extended into a different longer word, every completion or removal is recorded for review with the raw transcript keeping what was actually said, and repairs can no longer be squeezed into silences too short to hold them (the refusal now happens before paste). Notarized by Apple: macOS opens it without any warning - see fabledflow.com/changelog.html",
+  "build": 2883,
+  "url": "https://fabledflow.com/downloads/Fabled-Flow_v10.4_2026-09-03_b2883.dmg",
+  "sha256": "5bfcb1bddffaca2e8e28d664620b262deb356e7d4680a185260b41c5f7c27894",
+  "notes": "10.4 build refresh (2026-09-03, b2883): the dictionary digit guard + the capture-safety pair, notarized - numbers you dictate are literal, always (a spoken version number like 5.1 can never again be rewritten into a dictionary word; your taught corrections all keep working), a recording can no longer be interrupted by a report card (cards wait until the capture is safely finished, with a release-time net for orphans), repeat cards stop stacking, your error reports carry your own filed description on the History card and in admin, plus clipboard-restore hardening, daily log rotation, and the password-field protections. Notarized by Apple: macOS opens it without any warning - see fabledflow.com/changelog.html",
   "winVersion": "3.5",
   "winUrl": "https://fabledflow.com/downloads/Fabled-Flow-Windows_win-v3.5_2026-08-10.zip",
   "winSha256": "59bf35fca330fe2c6e50ef851200ec4e08bfe21a59833146d69a2c060ce3d6e4",
-  "mirrorUrl": "https://github.com/Lume-Apps/fabled-flow-releases/releases/download/v10.4-b2671/Fabled-Flow_v10.4_2026-09-01_b2671.dmg",
+  "mirrorUrl": "https://github.com/Lume-Apps/fabled-flow-releases/releases/download/v10.4-b2883/Fabled-Flow_v10.4_2026-09-03_b2883.dmg",
   "winMirrorUrl": "https://fabledflow.com/downloads/Fabled-Flow-Windows_win-v3.5_2026-08-10.zip"
 }
