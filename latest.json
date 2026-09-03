@@ -1,12 +1,12 @@
 {
   "version": "10.4",
-  "build": 2883,
-  "url": "https://fabledflow.com/downloads/Fabled-Flow_v10.4_2026-09-03_b2883.dmg",
-  "sha256": "5bfcb1bddffaca2e8e28d664620b262deb356e7d4680a185260b41c5f7c27894",
-  "notes": "10.4 build refresh (2026-09-03, b2883): the dictionary digit guard + the capture-safety pair, notarized - numbers you dictate are literal, always (a spoken version number like 5.1 can never again be rewritten into a dictionary word; your taught corrections all keep working), a recording can no longer be interrupted by a report card (cards wait until the capture is safely finished, with a release-time net for orphans), repeat cards stop stacking, your error reports carry your own filed description on the History card and in admin, plus clipboard-restore hardening, daily log rotation, and the password-field protections. Notarized by Apple: macOS opens it without any warning - see fabledflow.com/changelog.html",
+  "build": 2899,
+  "url": "https://fabledflow.com/downloads/Fabled-Flow_v10.4_2026-09-03_b2899.dmg",
+  "sha256": "cc3a20068ef657dcff5dd164d7ccdc09e9f603653fad0ab09e1cf37a90cd5e02",
+  "notes": "v10.4 BUILD REFRESH (2026-09-03, b2899 - the trailing-word tune, notarized): The last word of a dictation can no longer vanish. When a dictation ends on a softly spoken word, the clip-tail guard used to take ONE short re-hearing of that tail and, if the re-hearing came back empty, treated the silence as proof and dropped the word (\"...continue the work\" lost \"work\"; \"...this error or not?\" lost \"not\"). The guard now takes two hearings at different offsets and keeps any word either hearing backs; an all-empty result is treated as no opinion and the word stands. Verified on every reported specimen (7 of 7 lost words present in the replay) and on the full benchmark rig (the empty-output rate on the TED-LIUM set fell from 40% to 2.0% raw / 0.7% edited, with no regression on any other set). Notarized by Apple: macOS opens it without any warning. - see fabledflow.com/changelog.html",
   "winVersion": "3.5",
   "winUrl": "https://fabledflow.com/downloads/Fabled-Flow-Windows_win-v3.5_2026-08-10.zip",
   "winSha256": "59bf35fca330fe2c6e50ef851200ec4e08bfe21a59833146d69a2c060ce3d6e4",
-  "mirrorUrl": "https://github.com/Lume-Apps/fabled-flow-releases/releases/download/v10.4-b2883/Fabled-Flow_v10.4_2026-09-03_b2883.dmg",
+  "mirrorUrl": "https://github.com/Lume-Apps/fabled-flow-releases/releases/download/v10.4-b2899/Fabled-Flow_v10.4_2026-09-03_b2899.dmg",
   "winMirrorUrl": "https://fabledflow.com/downloads/Fabled-Flow-Windows_win-v3.5_2026-08-10.zip"
 }
