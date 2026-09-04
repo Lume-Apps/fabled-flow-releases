@@ -1,12 +1,11 @@
 {
   "version": "10.4",
-  "build": 2899,
-  "url": "https://fabledflow.com/downloads/Fabled-Flow_v10.4_2026-09-03_b2899.dmg",
-  "sha256": "cc3a20068ef657dcff5dd164d7ccdc09e9f603653fad0ab09e1cf37a90cd5e02",
-  "notes": "v10.4 BUILD REFRESH (2026-09-03, b2899 - the trailing-word tune, notarized): The last word of a dictation can no longer vanish. When a dictation ends on a softly spoken word, the clip-tail guard used to take ONE short re-hearing of that tail and, if the re-hearing came back empty, treated the silence as proof and dropped the word (\"...continue the work\" lost \"work\"; \"...this error or not?\" lost \"not\"). The guard now takes two hearings at different offsets and keeps any word either hearing backs; an all-empty result is treated as no opinion and the word stands. Verified on every reported specimen (7 of 7 lost words present in the replay) and on the full benchmark rig (the empty-output rate on the TED-LIUM set fell from 40% to 2.0% raw / 0.7% edited, with no regression on any other set). Notarized by Apple: macOS opens it without any warning. - see fabledflow.com/changelog.html",
+  "build": 2962,
+  "url": "https://fabledflow.com/downloads/Fabled-Flow_v10.4_2026-09-04_b2962.dmg",
+  "sha256": "13e11cc21fc4210fa92d6fb59d11eea84dcb5932b5332e785cec668ddf05b70f",
+  "notes": "v10.4 BUILD REFRESH (2026-09-04, b2962 - the tuned-binary batch, notarized): Five fixes ride this build: 1. A half-spoken last word is never guessed into a full one: when the recording cannot prove how the word ended, the fragment is dropped with the stumble cleaner on and kept exactly as heard with it off — never the engine's guess. 2. The paste card stops trusting an app's wrapper element as proof that text landed and remembers per app when its reading is blind, so the card fires less often and only when the paste truly could not be verified. 3. Phantom words at the end of a dictation — the engine's own weak guesses tied on one instant over silence — are refused before they reach the text (measured at 6 of 6 catches and 0 of 320 false alarms). 4. A long recording that produced nothing lands in History held, with its audio kept and a \"Transcribe as…\" action that re-transcribes it in the language you choose. 5. Diagnostics keep three generations of the debug log ",
   "winVersion": "3.5",
   "winUrl": "https://fabledflow.com/downloads/Fabled-Flow-Windows_win-v3.5_2026-08-10.zip",
   "winSha256": "59bf35fca330fe2c6e50ef851200ec4e08bfe21a59833146d69a2c060ce3d6e4",
-  "mirrorUrl": "https://github.com/Lume-Apps/fabled-flow-releases/releases/download/v10.4-b2899/Fabled-Flow_v10.4_2026-09-03_b2899.dmg",
   "winMirrorUrl": "https://fabledflow.com/downloads/Fabled-Flow-Windows_win-v3.5_2026-08-10.zip"
 }
