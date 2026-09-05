@@ -1,12 +1,12 @@
 {
   "version": "10.4",
-  "build": 2991,
-  "url": "https://fabledflow.com/downloads/Fabled-Flow_v10.4_2026-09-05_b2991.dmg",
-  "sha256": "f34b9ddb799608d0f7d492aa63984055b5523a7f7eab9e3e0d2e4ffb1a7c0753",
-  "notes": "v10.4 BUILD REFRESH (2026-09-05, b2991 - the lost-speech fixes, notarized): Four fixes from last night's dictations ride this build. (1) A real last word is never deleted on missing evidence: the stumble cleaner now measures the audio around the last word every time (the level of the word and of the whole dictation), and a word followed by measured silence is kept as the word it is — the b2962 rule that dropped \"locally\" from \"Git commit locally\" read a missing measurement as \"undetermined\" and deleted a real word; that path is closed. (2) A real last word is never deleted on a weak doubt either: the cutoff test that dropped \"now\" from \"fix it now\" (heard at confidence 0.53, silence after it) now yields a whole real word only to a STRONG conviction — the decoder's confidence under 0.3, the same bar that catches phantom words at 6 of 6 with 0 of 320 false alarms; the plain bar keeps governing half-spoken fragments. (3) Speech that produced no text is never silent: when a stretch of your",
+  "build": 3007,
+  "url": "https://fabledflow.com/downloads/Fabled-Flow_v10.4_2026-09-05_b3007.dmg",
+  "sha256": "57eab85ffd77acb7784a066f341f78de74e50e9f87a2157c30009e6c9c0a68a8",
+  "notes": "v10.4 BUILD REFRESH (2026-09-05, b3007 — the tail-word and dictionary fixes, notarized): Two fixes from today's dictations ride this build: (1) A last word two hearings backed can no longer be dropped by one that did not. When a dictation ends on a soft word, the engine re- hears the clip tail more than once; a guard that judged the last word from its own single re-hearing could refuse a word the other hearings had heard (\"…Is S2 fraudulent or not?\" lost \"not\"). Every hearing of the tail now enters the same decision, and a word any of them backs stands. (2) Your dictionary's learned corrections run last. Your exact entries still apply where they always did; the fuzzy, learned corrections (the ones that catch the engine's spelling variants of your taught words) now run over the finished text, after every other editor pass, one touch per word, and never over a longer stretch than the phrase you taught — so a taught correction can no longer be reshaped by a later pass, and a later pass ca",
   "winVersion": "3.5",
   "winUrl": "https://fabledflow.com/downloads/Fabled-Flow-Windows_win-v3.5_2026-08-10.zip",
   "winSha256": "59bf35fca330fe2c6e50ef851200ec4e08bfe21a59833146d69a2c060ce3d6e4",
   "winMirrorUrl": "https://fabledflow.com/downloads/Fabled-Flow-Windows_win-v3.5_2026-08-10.zip",
-  "mirrorUrl": "https://github.com/Lume-Apps/fabled-flow-releases/releases/download/v10.4-b2991/Fabled-Flow_v10.4_2026-09-05_b2991.dmg"
+  "mirrorUrl": "https://github.com/Lume-Apps/fabled-flow-releases/releases/download/v10.4-b3007/Fabled-Flow_v10.4_2026-09-05_b3007.dmg"
 }
