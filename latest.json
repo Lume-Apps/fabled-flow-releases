@@ -1,12 +1,12 @@
 {
   "version": "10.4",
-  "build": 3007,
-  "url": "https://fabledflow.com/downloads/Fabled-Flow_v10.4_2026-09-05_b3007.dmg",
-  "sha256": "57eab85ffd77acb7784a066f341f78de74e50e9f87a2157c30009e6c9c0a68a8",
-  "notes": "v10.4 BUILD REFRESH (2026-09-05, b3007 — the tail-word and dictionary fixes, notarized): Two fixes from today's dictations ride this build: (1) A last word two hearings backed can no longer be dropped by one that did not. When a dictation ends on a soft word, the engine re- hears the clip tail more than once; a guard that judged the last word from its own single re-hearing could refuse a word the other hearings had heard (\"…Is S2 fraudulent or not?\" lost \"not\"). Every hearing of the tail now enters the same decision, and a word any of them backs stands. (2) Your dictionary's learned corrections run last. Your exact entries still apply where they always did; the fuzzy, learned corrections (the ones that catch the engine's spelling variants of your taught words) now run over the finished text, after every other editor pass, one touch per word, and never over a longer stretch than the phrase you taught — so a taught correction can no longer be reshaped by a later pass, and a later pass ca",
+  "build": 3027,
+  "url": "https://fabledflow.com/downloads/Fabled-Flow_v10.4_2026-09-05_b3027.dmg",
+  "sha256": "ed1101342b19b463622148cb56b1eed33a86c3941029f734673f2bd82288685d",
+  "notes": "v10.4 BUILD REFRESH (2026-09-05, b3027 — the capture-failure and resumable-update fixes, notarized): Two fixes from today's reports ride this build: (1) A capture that received no audio now says so instead of guessing a language. When the microphone delivers nothing — a re-press during a notice phase used to glue a new press onto a capture whose microphone had already stopped, producing a long \"recording\" with zero audio — the app now says \"The microphone delivered no audio — check the input device\", names the device, and keeps the clip. The language safety net (the \"may not match\" hold) only fires when audio was actually received. A re-press during a notice phase now starts a fresh capture; a very quiet capture (level under 0.01) says the microphone level was very low and names the input device. (2) Check for Updates resumes an interrupted download. A dropped connection mid-download used to fail the whole update; the download now resumes from the bytes already on disk (four attempts p",
   "winVersion": "3.5",
   "winUrl": "https://fabledflow.com/downloads/Fabled-Flow-Windows_win-v3.5_2026-08-10.zip",
   "winSha256": "59bf35fca330fe2c6e50ef851200ec4e08bfe21a59833146d69a2c060ce3d6e4",
   "winMirrorUrl": "https://fabledflow.com/downloads/Fabled-Flow-Windows_win-v3.5_2026-08-10.zip",
-  "mirrorUrl": "https://github.com/Lume-Apps/fabled-flow-releases/releases/download/v10.4-b3007/Fabled-Flow_v10.4_2026-09-05_b3007.dmg"
+  "mirrorUrl": "https://github.com/Lume-Apps/fabled-flow-releases/releases/download/v10.4-b3027/Fabled-Flow_v10.4_2026-09-05_b3027.dmg"
 }
