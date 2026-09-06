@@ -1,12 +1,12 @@
 {
   "version": "10.4",
-  "build": 3199,
-  "url": "https://fabledflow.com/downloads/Fabled-Flow_v10.4_2026-09-07_b3199.dmg",
-  "sha256": "1cf1f360eb1d8f9ea4438161849d90a011c3918a753b846cc9955d893756baba",
-  "notes": "v10.4 BUILD REFRESH (2026-09-07, b3199 — the spelled-run guard (ROW 914) + the ROW 913 whitespace gate + the ROW 916 resolver, notarized): THIRTEEN slices since b3027, every one suite-green on this Mac; the Air's mini-v3 confirmed the text rules through ROW 871 (76e2a7a7, 5efd1f31); ROW 872's confirmation is the last one owed before the cut. ## Accuracy (the editor) - ROW 871 — the real-damage bundle: seven guards from the editor damage atlas (the shard join, the echo collapse, the splitter/heal prefix + restart refusals, the U238 hundreds glue, the archaic heal, double-digits, the star chain). Confirmed: librispeech-other +0.24 -> +0.14pp, tedlium +0.19 -> +0.04pp, no side effects. - ROW 870 — the \"A\" label glue: \"A twenty two\" -> A22 mid-sentence (the article stays an article). - ROW 872 — THE LETTER-LAMINATION CLASS: spelled letters that form a word laminate in capitals (W H E R E -> WHERE, W E apostrophe R E -> WE'RE), the engine's own separators inside a run (hyphen chains, period",
+  "build": 3205,
+  "url": "https://fabledflow.com/downloads/Fabled-Flow_v10.4_2026-09-07_b3205.dmg",
+  "sha256": "404c17f99e4220e4d6b665e2f8908a3d32658858ba39937aa01167111010218d",
+  "notes": "v10.4 BUILD REFRESH (2026-09-07, b3205 — v10.4 — the second vantage (ROW 917) + the deploy re-read retry (ROW 918), notarized): THIRTEEN slices since b3027, every one suite-green on this Mac; the Air's mini-v3 confirmed the text rules through ROW 871 (76e2a7a7, 5efd1f31); ROW 872's confirmation is the last one owed before the cut. ## Accuracy (the editor) - ROW 871 — the real-damage bundle: seven guards from the editor damage atlas (the shard join, the echo collapse, the splitter/heal prefix + restart refusals, the U238 hundreds glue, the archaic heal, double-digits, the star chain). Confirmed: librispeech- other +0.24 -> +0.14pp, tedlium +0.19 -> +0.04pp, no side effects. - ROW 870 — the \"A\" label glue: \"A twenty two\" -> A22 mid-sentence (the article stays an article). - ROW 872 — THE LETTER-LAMINATION CLASS: spelled letters that form a word laminate in capitals (W H E R E -> WHERE, W E apostrophe R E -> WE'RE), the engine's own separators inside a run (hyphen chains, periods, the spo",
   "winVersion": "3.5",
   "winUrl": "https://fabledflow.com/downloads/Fabled-Flow-Windows_win-v3.5_2026-08-10.zip",
   "winSha256": "59bf35fca330fe2c6e50ef851200ec4e08bfe21a59833146d69a2c060ce3d6e4",
   "winMirrorUrl": "https://fabledflow.com/downloads/Fabled-Flow-Windows_win-v3.5_2026-08-10.zip",
-  "mirrorUrl": "https://github.com/Lume-Apps/fabled-flow-releases/releases/download/v10.4-b3199/Fabled-Flow_v10.4_2026-09-07_b3199.dmg"
+  "mirrorUrl": "https://github.com/Lume-Apps/fabled-flow-releases/releases/download/v10.4-b3205/Fabled-Flow_v10.4_2026-09-07_b3205.dmg"
 }
