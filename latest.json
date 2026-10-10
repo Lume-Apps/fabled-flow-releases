@@ -4,9 +4,9 @@
   "url": "https://fabledflow.com/downloads/Fabled-Flow_v10.4_2026-10-10_b3716.dmg",
   "sha256": "3109f547c6f6c6f6aafb99591a4cd45645b8b758143b58e78bb8e9c1ffd27ef0",
   "notes": "v10.4 BUILD REFRESH (2026-10-10, b3716 — the post-checkpoint cut: T10-b's head clearance, the latency instrumentation, the lexicon refresh, notarized): The first cut since b3254 (September 9). Everything below was measured on the full eight-set benchmark population (about 76,000 clips) per clip against the September 2nd build: every set reads better than September 2nd (ami 10.06 vs 10.25, earnings22 11.18 vs 11.34, gigaspeech 8.22 vs 8.25, librispeech-clean 1.87 vs 1.96, librispeech-other 3.56 vs 3.61, spgispeech 3.10 vs 3.16, tedlium 2.83 vs 2.89, voxpopuli 3.07 vs 3.13), and the three rows since the checkpoint were each screened with zero new-error clips on all three mini samples. (1) A lone \"Q\" stays the letter. Beside a number, before a finance word, or sentence-final after a quarter preposition it renders \"Q3\" or \"10-Q\" instead of becoming \"queue\". (2) Real last words survive. The stumble law keeps a standalone real last word whatever the confidence bar says; the clip-tail guard r",
-  "winVersion": "3.5",
-  "winUrl": "https://fabledflow.com/downloads/Fabled-Flow-Windows_win-v3.5_2026-08-10.zip",
-  "winSha256": "59bf35fca330fe2c6e50ef851200ec4e08bfe21a59833146d69a2c060ce3d6e4",
-  "winMirrorUrl": "https://fabledflow.com/downloads/Fabled-Flow-Windows_win-v3.5_2026-08-10.zip",
+  "winVersion": "3.6",
+  "winUrl": "https://fabledflow.com/downloads/Fabled-Flow-Windows_win-v3.6_2026-10-09.zip",
+  "winSha256": "f09b21aab5ffef2642acef5fdb30bd5490b21db7d909fb237c2d968a8cae822d",
+  "winMirrorUrl": "https://fabledflow.com/downloads/Fabled-Flow-Windows_win-v3.6_2026-10-09.zip",
   "mirrorUrl": "https://github.com/Lume-Apps/fabled-flow-releases/releases/download/v10.4-b3716/Fabled-Flow_v10.4_2026-10-10_b3716.dmg"
 }
