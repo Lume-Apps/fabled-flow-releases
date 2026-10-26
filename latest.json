@@ -1,12 +1,12 @@
 {
   "version": "10.4",
-  "build": 4129,
-  "url": "https://fabledflow.com/downloads/Fabled-Flow_v10.4_2026-10-18_b4129.dmg",
-  "sha256": "34569dba6dca5d0337157ef95cffcef948752a80439fedb5bfac724dc5b5e051",
-  "notes": "v10.4 BUILD REFRESH (2026-10-18, b4129 \u2014 the Dictionary's real-word guard, the unit-series rule, the nine closing sounds, notarized): GOAL-ITEM: g2.5 (the release chain) CONSUMERS: scripts/release.sh --notes (the changelog pages, private and public, are written from this file by scripts/changelog-from-notes.py); the GitHub release body; the website card SPINE: docs/complete-mistake- ledger_v2.0_2026-08-22.md ROWs 1352-1391 (every item below cites its row) OVERLAP: none \u2014 the previous cut's notes (dist/build- logs/release-notes-b3957.md) share the shape, not the content STALENESS: written before the cut; the build number, the suite count and the engine line are filled by the cut from its own receipts, never by hand The second cut on the Parakeet Ultra engine. Every change below was measured on the full benchmark population per clip under the one ruler before it was kept; nothing moved that the ruler did not approve. (1) Your Dictionary never eats a real word. A Dictionary entry that sou",
+  "build": 4456,
+  "url": "https://fabledflow.com/downloads/Fabled-Flow_v10.4_2026-10-26_b4456.dmg",
+  "sha256": "f4576ecd1e5e6a5da94d17e30b6b5ab65cb56524a67aa91e52e234c2fdf7187c",
+  "notes": "v10.4 BUILD REFRESH (2026-10-26, b4456 — the heal guards: unknown words kept as heard, compound and name guards, the stumble law's realness door, notarized): GOAL-ITEM: heal-class-repair (the self- repair loop's cut, ROWs 1532-1568) CONSUMERS: scripts/release.sh --notes (the changelog pages, private and public, are written from this file by scripts/changelog-from-notes.py); the GitHub release body; the website card SPINE: docs/complete-mistake- ledger_v2.0_2026-08-22.md ROWs 1532-1568 (every item below cites its row) OVERLAP: none — the previous cut's notes (dist/build- logs/release-notes-b4129.md) share the shape, not the content STALENESS: written before the cut; the build number, the suite count and the engine line are filled by the cut from its own receipts, never by hand The third cut on the Parakeet Ultra engine, and the first measured under the owner's cut order: every change below was measured on the full benchmark population per clip under the one ruler; 57 clips improved agai",
   "winVersion": "3.9",
   "winUrl": "https://fabledflow.com/downloads/Fabled-Flow-Windows_win-v3.9_2026-10-22.zip",
   "winSha256": "5f7871d33f76d7ee04a8eea88c9a5d670161caf953f1171001415201836a7546",
   "winMirrorUrl": "https://github.com/Lume-Apps/FabledFlow/releases/download/win-v3.9/Fabled-Flow-Windows_win-v3.9_2026-10-22.zip",
-  "mirrorUrl": "https://github.com/Lume-Apps/fabled-flow-releases/releases/download/v10.4-b4129/Fabled-Flow_v10.4_2026-10-18_b4129.dmg"
+  "mirrorUrl": "https://github.com/Lume-Apps/fabled-flow-releases/releases/download/v10.4-b4456/Fabled-Flow_v10.4_2026-10-26_b4456.dmg"
 }
