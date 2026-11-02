@@ -1,12 +1,12 @@
 {
   "version": "10.4",
-  "build": 4576,
-  "url": "https://fabledflow.com/downloads/Fabled-Flow_v10.4_2026-11-02_b4576.dmg",
-  "sha256": "fd9b66f2ea86745cad0a146fd86e681ce1c6a176cfa85eb6731e5775903687e9",
-  "notes": "v10.4 BUILD REFRESH (2026-11-02, b4576 — the clipboard after a used copy and the card that was silent, notarized): The clipboard rule after a copy you have used, and the card for a paste that landed somewhere else. (1) A used copy retires at the next dictation. A manually copied item stays on the clipboard across dictations until you use it; after that one use the next dictation's own text takes the clipboard, so your next ⌘V pastes the dictation. A copy you never use still survives five dictations. (2) A hand paste right after a dictation shows the card. If you paste by hand within four seconds of a dictation's own paste, the app now shows the gentle recovery card with the transcript instead of only noting the anomaly, and the transcript is placed back on the clipboard. (3) Your own ⌘C is always yours. A ⌘C you press yourself within four seconds of a clipboard change marks that copy as yours even when its text equals the last dictation. Verified: the format suite 2950 passed, 0 failed",
+  "build": 4593,
+  "url": "https://fabledflow.com/downloads/Fabled-Flow_v10.4_2026-11-02_b4593.dmg",
+  "sha256": "ac086b2bc392e402419058ea4307457aad8d07474b2177e5ddc475a2020b3cee",
+  "notes": "v10.4 BUILD REFRESH (2026-11-02, b4593 — the hearing repairs, the email address, the currency convention, Thai baht, the names pack, notarized): The repairs batched on the accent branch plus tonight's five slices, cut on the owner's order. (1) The clipboard after a used copy, and the card that was silent (carried from build 4576). (2) The onset echo is gone: the gap re-listen no longer writes the first sound of the next word twice. (3) Email addresses keep their spoken name: \"Andy drone footage at gmail dot com\" becomes one address when the words run together. (4) Small words that were one word join back to the word you use (\"in solve it\" → \"insolvent\") when there is no pause between them. (5) One currency convention: a currency named with its country keeps the words (\"1 US dollar\", \"500 Hong Kong dollars\"); a bare one takes its symbol (\"$1\", \"£1\", \"€1\", \"¥1\"); a spoken code goes first (\"RMB 1\", \"USD 20\", \"HKD 100\"); the engine's own \"US$1 US dollar\" echo is repaired. (6) Thai baht und",
   "winVersion": "3.9",
   "winUrl": "https://fabledflow.com/downloads/Fabled-Flow-Windows_win-v3.9_2026-10-22.zip",
   "winSha256": "5f7871d33f76d7ee04a8eea88c9a5d670161caf953f1171001415201836a7546",
   "winMirrorUrl": "https://github.com/Lume-Apps/FabledFlow/releases/download/win-v3.9/Fabled-Flow-Windows_win-v3.9_2026-10-22.zip",
-  "mirrorUrl": "https://github.com/Lume-Apps/fabled-flow-releases/releases/download/v10.4-b4576/Fabled-Flow_v10.4_2026-11-02_b4576.dmg"
+  "mirrorUrl": "https://github.com/Lume-Apps/fabled-flow-releases/releases/download/v10.4-b4593/Fabled-Flow_v10.4_2026-11-02_b4593.dmg"
 }
