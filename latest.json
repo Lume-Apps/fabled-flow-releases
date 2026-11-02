@@ -1,12 +1,12 @@
 {
   "version": "10.4",
-  "build": 4593,
-  "url": "https://fabledflow.com/downloads/Fabled-Flow_v10.4_2026-11-02_b4593.dmg",
-  "sha256": "ac086b2bc392e402419058ea4307457aad8d07474b2177e5ddc475a2020b3cee",
-  "notes": "v10.4 BUILD REFRESH (2026-11-02, b4593 — the hearing repairs, the email address, the currency convention, Thai baht, the names pack, notarized): The repairs batched on the accent branch plus tonight's five slices, cut on the owner's order. (1) The clipboard after a used copy, and the card that was silent (carried from build 4576). (2) The onset echo is gone: the gap re-listen no longer writes the first sound of the next word twice. (3) Email addresses keep their spoken name: \"Andy drone footage at gmail dot com\" becomes one address when the words run together. (4) Small words that were one word join back to the word you use (\"in solve it\" → \"insolvent\") when there is no pause between them. (5) One currency convention: a currency named with its country keeps the words (\"1 US dollar\", \"500 Hong Kong dollars\"); a bare one takes its symbol (\"$1\", \"£1\", \"€1\", \"¥1\"); a spoken code goes first (\"RMB 1\", \"USD 20\", \"HKD 100\"); the engine's own \"US$1 US dollar\" echo is repaired. (6) Thai baht und",
+  "build": 4597,
+  "url": "https://fabledflow.com/downloads/Fabled-Flow_v10.4_2026-11-03_b4597.dmg",
+  "sha256": "1ac1c3dffb14cc4c5ae638d84df07b5adabd47655863624635ca0f4a55bef210",
+  "notes": "v10.4 BUILD REFRESH (2026-11-03, b4597 — the History play button, the names pack from your reports, notarized): Two repairs from the owner's evening reports, cut on his order. (1) The History play button answers at once. The first play of a clip used to wait up to twenty seconds for the word highlighter before any sound; under load that read as a dead button. The wait is now capped at 1.5 seconds, the button shows \"preparing…\" while it waits, and every press is written to the diagnostic log. (2) The names pack learns from your reports. Brands and products the engine mangled in today's reports — Airwallex, Beds24, Claude in Chrome, Hong Kong, the Fabled Flow client app — resolve to their names; your own Dictionary entries still win. Verified: the format suite 3018 passed, 0 failed of 3018 on the debug binary of this exact source tree; notarized by Apple and stapled. Notarized by Apple: macOS opens it without any warning.",
   "winVersion": "4.0",
   "winUrl": "https://fabledflow.com/downloads/Fabled-Flow-Windows_win-v4.0_2026-11-03.zip",
   "winSha256": "b16b373387a0742f31ecc3db8ef3cd082ccd381d9a6b9731f8e4556395d70d79",
   "winMirrorUrl": "https://github.com/Lume-Apps/FabledFlow/releases/download/win-v4.0/Fabled-Flow-Windows_win-v4.0_2026-11-03.zip",
-  "mirrorUrl": "https://github.com/Lume-Apps/fabled-flow-releases/releases/download/v10.4-b4593/Fabled-Flow_v10.4_2026-11-02_b4593.dmg"
+  "mirrorUrl": "https://github.com/Lume-Apps/fabled-flow-releases/releases/download/v10.4-b4597/Fabled-Flow_v10.4_2026-11-03_b4597.dmg"
 }
