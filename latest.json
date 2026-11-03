@@ -1,12 +1,12 @@
 {
   "version": "10.4",
-  "build": 4603,
-  "url": "https://fabledflow.com/downloads/Fabled-Flow_v10.4_2026-11-03_b4603.dmg",
-  "sha256": "1303362d298ed8f7fff578f5bc8b022390293348d338b6ce0fc0f68407674a36",
-  "notes": "v10.4 BUILD REFRESH (2026-11-03, b4603 — the paste card and the focus wake, a doubled word at the seam, brand names, notarized): Three repairs from the owner's afternoon reports, cut on his order. (1) The paste card no longer appears over a paste that landed: a paste the app confirmed is confirmed for every later check, so pressing ⌘V yourself a second later never raises the card. When the app has to wake the keyboard focus it now types a character and deletes it (the owner's own observation: a bare modifier press did not arm the cursor; typing does), never over selected text. If the card still appears twice within ten minutes, the app wakes the focus that way and pastes once more by itself. (2) A word heard twice across a long dictation's window seam is written once: when the second hearing sits under the same stretch of audio as the first, it is the same word and is dropped before it reaches the text (\"Pinkai Pinkai\"). (3) Brand names: a fuzzy Dictionary match never rewrites a name t",
+  "build": 4606,
+  "url": "https://fabledflow.com/downloads/Fabled-Flow_v10.4_2026-11-03_b4606.dmg",
+  "sha256": "1122e4b6a630d4ddba3b509e2dbaeb4d6a966ea820c8ef05349390de398f12c9",
+  "notes": "v10.4 BUILD REFRESH (2026-11-03, b4606 — an unspelled word, the pre- warm, notarized): Two repairs from the owner's afternoon reports, cut on his order. (1) A word the speech model hears but cannot spell (it writes a marker instead — \"M+\" came out as \"M\" with the \"+\" lost) is no longer deleted: the marker's own slice of audio goes to the second speech model, which spells with a different vocabulary, and its word takes the marker's place (\"M plus\" or \"M+\"). If nothing can be heard there, the marker is removed as before and the check-the-text notice stands. The owner's rule: a word that carries a timestamp was said, and is never deleted. (2) Snappier on machines short of memory: from the moment you press the key until the text is pasted, the app declares a latency-critical activity to macOS so its timers and threads are not throttled, and on 8 GB machines it keeps the speech model's memory pages warm every five idle minutes so the first press after a quiet spell does not pay for paging t",
   "winVersion": "4.0",
   "winUrl": "https://fabledflow.com/downloads/Fabled-Flow-Windows_win-v4.0_2026-11-03.zip",
   "winSha256": "b16b373387a0742f31ecc3db8ef3cd082ccd381d9a6b9731f8e4556395d70d79",
   "winMirrorUrl": "https://github.com/Lume-Apps/FabledFlow/releases/download/win-v4.0/Fabled-Flow-Windows_win-v4.0_2026-11-03.zip",
-  "mirrorUrl": "https://github.com/Lume-Apps/fabled-flow-releases/releases/download/v10.4-b4603/Fabled-Flow_v10.4_2026-11-03_b4603.dmg"
+  "mirrorUrl": "https://github.com/Lume-Apps/fabled-flow-releases/releases/download/v10.4-b4606/Fabled-Flow_v10.4_2026-11-03_b4606.dmg"
 }
