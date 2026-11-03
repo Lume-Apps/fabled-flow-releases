@@ -1,12 +1,12 @@
 {
   "version": "10.4",
-  "build": 4597,
-  "url": "https://fabledflow.com/downloads/Fabled-Flow_v10.4_2026-11-03_b4597.dmg",
-  "sha256": "1ac1c3dffb14cc4c5ae638d84df07b5adabd47655863624635ca0f4a55bef210",
-  "notes": "v10.4 BUILD REFRESH (2026-11-03, b4597 — the History play button, the names pack from your reports, notarized): Two repairs from the owner's evening reports, cut on his order. (1) The History play button answers at once. The first play of a clip used to wait up to twenty seconds for the word highlighter before any sound; under load that read as a dead button. The wait is now capped at 1.5 seconds, the button shows \"preparing…\" while it waits, and every press is written to the diagnostic log. (2) The names pack learns from your reports. Brands and products the engine mangled in today's reports — Airwallex, Beds24, Claude in Chrome, Hong Kong, the Fabled Flow client app — resolve to their names; your own Dictionary entries still win. Verified: the format suite 3018 passed, 0 failed of 3018 on the debug binary of this exact source tree; notarized by Apple and stapled. Notarized by Apple: macOS opens it without any warning.",
+  "build": 4603,
+  "url": "https://fabledflow.com/downloads/Fabled-Flow_v10.4_2026-11-03_b4603.dmg",
+  "sha256": "1303362d298ed8f7fff578f5bc8b022390293348d338b6ce0fc0f68407674a36",
+  "notes": "v10.4 BUILD REFRESH (2026-11-03, b4603 — the paste card and the focus wake, a doubled word at the seam, brand names, notarized): Three repairs from the owner's afternoon reports, cut on his order. (1) The paste card no longer appears over a paste that landed: a paste the app confirmed is confirmed for every later check, so pressing ⌘V yourself a second later never raises the card. When the app has to wake the keyboard focus it now types a character and deletes it (the owner's own observation: a bare modifier press did not arm the cursor; typing does), never over selected text. If the card still appears twice within ten minutes, the app wakes the focus that way and pastes once more by itself. (2) A word heard twice across a long dictation's window seam is written once: when the second hearing sits under the same stretch of audio as the first, it is the same word and is dropped before it reaches the text (\"Pinkai Pinkai\"). (3) Brand names: a fuzzy Dictionary match never rewrites a name t",
   "winVersion": "4.0",
   "winUrl": "https://fabledflow.com/downloads/Fabled-Flow-Windows_win-v4.0_2026-11-03.zip",
   "winSha256": "b16b373387a0742f31ecc3db8ef3cd082ccd381d9a6b9731f8e4556395d70d79",
   "winMirrorUrl": "https://github.com/Lume-Apps/FabledFlow/releases/download/win-v4.0/Fabled-Flow-Windows_win-v4.0_2026-11-03.zip",
-  "mirrorUrl": "https://github.com/Lume-Apps/fabled-flow-releases/releases/download/v10.4-b4597/Fabled-Flow_v10.4_2026-11-03_b4597.dmg"
+  "mirrorUrl": "https://github.com/Lume-Apps/fabled-flow-releases/releases/download/v10.4-b4603/Fabled-Flow_v10.4_2026-11-03_b4603.dmg"
 }
