@@ -1,12 +1,12 @@
 {
   "version": "10.4",
-  "build": 4612,
-  "url": "https://fabledflow.com/downloads/Fabled-Flow_v10.4_2026-11-04_b4612.dmg",
-  "sha256": "b8ca6236e039c310dfec21a2966743ccc17a4684a42da28cccedd6069ac6b3c0",
-  "notes": "v10.4 BUILD REFRESH (2026-11-04, b4612 \u2014 the same-breath gate, the self-correction engine for names and addresses, the karaoke after an update, notarized): Three repairs from the owner's evening reports, cut on his order. (1) A Dictionary entry can no longer rewrite a word that is not the same breath: the sound-key door that turned a perfectly heard \"sonatasamui.com\" into \"sonnet5.com\" and \"musesamui.com\" into \"maesot.com\" now measures the syllables of what was said against the entry (within one, or the two share a five-letter head or tail as one word family) in every context, web addresses included. The earlier catches (a slurred \"Sonified\" or \"Sonify\" becoming \"Sonnet 5\", \"advocatedesign\" healing to a taught label) still convert. (2) Your own corrections of names and addresses now teach the app: a correction of a single word that is not an English word (a domain, a brand, a coinage) goes into your voice profile's learned pairs \u2014 never into the Dictionary \u2014 and after three sightings i",
+  "build": 4623,
+  "url": "https://fabledflow.com/downloads/Fabled-Flow_v10.4_2026-11-04_b4623.dmg",
+  "sha256": "695056ca51bb69c252ad6bce35a51987b9e8f88637a98a8830f9e44a51b90f7d",
+  "notes": "v10.4 BUILD REFRESH (2026-11-04, b4623 — the fragment guard, the doubled period, the scorer that reads your Dictionary, notarized): Three repairs from the owner's dictations of 4 November, cut on his order of 21:43. (1) A dictation that was cut short is no longer closed as a question: when the speech model loses the tail of a sentence and the text ends on a word like \"the\" or \"on\", the editor leaves the period alone instead of writing \"?\" (\"Can you please click confirm on the.\" stays a fragment; a whole question still gets its mark). (2) The speech model's own doubled period (\"error.. How\") is folded to a single period; an ellipsis and dotted forms such as \"v1.2\" or \"a.m.\" are untouched. (3) The batch scorer that re-checks the owner's own reported clips on every build now reads his Dictionary, so the live editor is what gets judged; with it, a clip that failed before passes (\"Sonnet 5\" by his entry), and the learned-word test moved into the file the iPhone app shares, so the iPhone bui",
   "winVersion": "4.2",
   "winUrl": "https://fabledflow.com/downloads/Fabled-Flow-Windows_win-v4.2_2026-11-04.zip",
   "winSha256": "b2a7fcb4800d391a6cb65cbeee35fe1c640cc0da4b2d84628eae574b961e8b6c",
   "winMirrorUrl": "https://github.com/Lume-Apps/FabledFlow/releases/download/win-v4.2/Fabled-Flow-Windows_win-v4.2_2026-11-04.zip",
-  "mirrorUrl": "https://github.com/Lume-Apps/fabled-flow-releases/releases/download/v10.4-b4612/Fabled-Flow_v10.4_2026-11-04_b4612.dmg"
+  "mirrorUrl": "https://github.com/Lume-Apps/fabled-flow-releases/releases/download/v10.4-b4623/Fabled-Flow_v10.4_2026-11-04_b4623.dmg"
 }
