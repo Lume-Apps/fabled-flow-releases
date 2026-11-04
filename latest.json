@@ -3,10 +3,10 @@
   "build": 4612,
   "url": "https://fabledflow.com/downloads/Fabled-Flow_v10.4_2026-11-04_b4612.dmg",
   "sha256": "b8ca6236e039c310dfec21a2966743ccc17a4684a42da28cccedd6069ac6b3c0",
-  "notes": "v10.4 BUILD REFRESH (2026-11-04, b4612 — the same-breath gate, the self-correction engine for names and addresses, the karaoke after an update, notarized): Three repairs from the owner's evening reports, cut on his order. (1) A Dictionary entry can no longer rewrite a word that is not the same breath: the sound-key door that turned a perfectly heard \"sonatasamui.com\" into \"sonnet5.com\" and \"musesamui.com\" into \"maesot.com\" now measures the syllables of what was said against the entry (within one, or the two share a five-letter head or tail as one word family) in every context, web addresses included. The earlier catches (a slurred \"Sonified\" or \"Sonify\" becoming \"Sonnet 5\", \"advocatedesign\" healing to a taught label) still convert. (2) Your own corrections of names and addresses now teach the app: a correction of a single word that is not an English word (a domain, a brand, a coinage) goes into your voice profile's learned pairs — never into the Dictionary — and after three sightings i",
-  "winVersion": "4.1",
-  "winUrl": "https://fabledflow.com/downloads/Fabled-Flow-Windows_win-v4.1_2026-11-03.zip",
-  "winSha256": "7e23c0f03afdb4327b58781ee3ab727c689f172202b42b4f90e8249ea51b5c5e",
-  "winMirrorUrl": "https://github.com/Lume-Apps/FabledFlow/releases/download/win-v4.1/Fabled-Flow-Windows_win-v4.1_2026-11-03.zip",
+  "notes": "v10.4 BUILD REFRESH (2026-11-04, b4612 \u2014 the same-breath gate, the self-correction engine for names and addresses, the karaoke after an update, notarized): Three repairs from the owner's evening reports, cut on his order. (1) A Dictionary entry can no longer rewrite a word that is not the same breath: the sound-key door that turned a perfectly heard \"sonatasamui.com\" into \"sonnet5.com\" and \"musesamui.com\" into \"maesot.com\" now measures the syllables of what was said against the entry (within one, or the two share a five-letter head or tail as one word family) in every context, web addresses included. The earlier catches (a slurred \"Sonified\" or \"Sonify\" becoming \"Sonnet 5\", \"advocatedesign\" healing to a taught label) still convert. (2) Your own corrections of names and addresses now teach the app: a correction of a single word that is not an English word (a domain, a brand, a coinage) goes into your voice profile's learned pairs \u2014 never into the Dictionary \u2014 and after three sightings i",
+  "winVersion": "4.2",
+  "winUrl": "https://fabledflow.com/downloads/Fabled-Flow-Windows_win-v4.2_2026-11-04.zip",
+  "winSha256": "b2a7fcb4800d391a6cb65cbeee35fe1c640cc0da4b2d84628eae574b961e8b6c",
+  "winMirrorUrl": "https://github.com/Lume-Apps/FabledFlow/releases/download/win-v4.2/Fabled-Flow-Windows_win-v4.2_2026-11-04.zip",
   "mirrorUrl": "https://github.com/Lume-Apps/fabled-flow-releases/releases/download/v10.4-b4612/Fabled-Flow_v10.4_2026-11-04_b4612.dmg"
 }
