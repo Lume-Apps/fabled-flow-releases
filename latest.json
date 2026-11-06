@@ -1,12 +1,12 @@
 {
   "version": "10.4",
-  "build": 4676,
-  "url": "https://fabledflow.com/downloads/Fabled-Flow_v10.4_2026-11-06_b4676.dmg",
-  "sha256": "1a72a6039e4dc0f0e5568d90991abc31f8f5c408a22fc76e16732f92573b8e73",
-  "notes": "v10.4 BUILD REFRESH (2026-11-06, b4676 — the fourteenth cut — addresses learn at their core, no fuzzy rewriting of real words, nothing starts while your text is landing, FluidAudio 0.18.2, notarized): (1) Your email and web-address corrections now count toward one target however the speech model misspelled it: the pairs the app already holds are folded to their core (an email's local part, an address's stem) when the app starts, so three corrections of one address arm it, and a learned core fixes the address in any form — upperviewsimui.com becomes upperviewsamui.com once upperviewsamui is learned. (2) The dictionary's fuzzy matching never rewrites a phrase of real English words any more: \"made so\" stays \"made so\" even though a places entry \"Mae Sot\" sounds alike; an entry still applies when its exact spoken form is said. (3) The speech engine library moves to FluidAudio 0.18.2: it repairs gaps at window seams, joins words split across a window, and recovers dropped opening speech on i",
+  "build": 4682,
+  "url": "https://fabledflow.com/downloads/Fabled-Flow_v10.4_2026-11-07_b4682.dmg",
+  "sha256": "97105b16ac9c6d7e641cc585309501ae030a3b38801f5266d0270d3866b84608",
+  "notes": "v10.4 BUILD REFRESH (2026-11-07, b4682 — the fifteenth cut — the wake's letter never stays, accent 1.4 names each speaker on the benchmark, Windows win-v4.5, notarized): (1) The wake's letter never stays: when Fabled Flow types a letter to wake a sleepy text field, it now re-reads the field for up to 600 ms, and the paste itself checks the text before the cursor and deletes the letter before pasting — your text never lands behind it (ROW 1732). (2) The wake is no longer refused by a container that claims a selection: only a real text field's selection stops it (the 23:47 card on 4677 was this refusal). (3) Accent 1.4 — the benchmark names each additional speaker (\"Speaker 2:\") from the diarizer's turns; a display rule on the benchmark lane, the scored words unchanged; measured on two-voice clips with exact boundaries. (4) Windows win-v4.5 ships beside this cut: the start gate through the paste (no new dictation while your text is still landing, said on the pill), the wake throttle (at ",
   "winVersion": "4.5",
   "winUrl": "https://fabledflow.com/downloads/Fabled-Flow-Windows_win-v4.5_2026-11-07.zip",
   "winSha256": "4c72d778627a09bb2bfaadcdfb4936a01a573467bdfc7bde8ef5679867369a35",
   "winMirrorUrl": "https://github.com/Lume-Apps/FabledFlow/releases/download/win-v4.5/Fabled-Flow-Windows_win-v4.5_2026-11-07.zip",
-  "mirrorUrl": "https://github.com/Lume-Apps/fabled-flow-releases/releases/download/v10.4-b4676/Fabled-Flow_v10.4_2026-11-06_b4676.dmg"
+  "mirrorUrl": "https://github.com/Lume-Apps/fabled-flow-releases/releases/download/v10.4-b4682/Fabled-Flow_v10.4_2026-11-07_b4682.dmg"
 }
