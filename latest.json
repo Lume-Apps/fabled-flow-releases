@@ -6,7 +6,7 @@
   "notes": "v10.4 BUILD REFRESH (2026-11-06, b4666 — the thirteenth cut — the absolute truth rule, addresses learned from your corrections, nothing starts while processing, notarized): (1) The absolute truth rule: a word the audio never carried — no sound where it would have been spoken and no time of its own from the speech model — is deleted before the editor ever sees it, and where a window seam heard the same ending twice the first hearing stays and the later copy goes (\"onto\" stays \"onto\"). One rule, nothing stacked on it; it runs on short dictations and long ones alike, after the witnesses and before any heal. (2) The self-correction engine learns addresses: an email you correct by hand learns its local part, a web address learns its stem, and a target's sightings count across the speech model's different mis-spellings of it — three sightings arm it however the ear spelled it. Real words are still never learned and never touched. (3) Nothing starts while the app is processing: while the thre",
   "winVersion": "4.4",
   "winUrl": "https://fabledflow.com/downloads/Fabled-Flow-Windows_win-v4.4_2026-11-06.zip",
-  "winSha256": "c4c67da35c953d098ce7a7ae2912809b039bc2e8bf2044905dbdb402b113545c",
+  "winSha256": "52118d633fbc214394b93ea869a6de79d2e003622f2bdb6ec2dc316188b070ae",
   "winMirrorUrl": "https://github.com/Lume-Apps/FabledFlow/releases/download/win-v4.4/Fabled-Flow-Windows_win-v4.4_2026-11-06.zip",
   "mirrorUrl": "https://github.com/Lume-Apps/fabled-flow-releases/releases/download/v10.4-b4666/Fabled-Flow_v10.4_2026-11-06_b4666.dmg"
 }
