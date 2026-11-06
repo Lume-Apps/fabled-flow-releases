@@ -1,12 +1,12 @@
 {
   "version": "10.4",
-  "build": 4666,
-  "url": "https://fabledflow.com/downloads/Fabled-Flow_v10.4_2026-11-06_b4666.dmg",
-  "sha256": "8376873f352ab2bc70605b8ee3021df6ceb5070274fe911ee52dbe9fe1579098",
-  "notes": "v10.4 BUILD REFRESH (2026-11-06, b4666 — the thirteenth cut — the absolute truth rule, addresses learned from your corrections, nothing starts while processing, notarized): (1) The absolute truth rule: a word the audio never carried — no sound where it would have been spoken and no time of its own from the speech model — is deleted before the editor ever sees it, and where a window seam heard the same ending twice the first hearing stays and the later copy goes (\"onto\" stays \"onto\"). One rule, nothing stacked on it; it runs on short dictations and long ones alike, after the witnesses and before any heal. (2) The self-correction engine learns addresses: an email you correct by hand learns its local part, a web address learns its stem, and a target's sightings count across the speech model's different mis-spellings of it — three sightings arm it however the ear spelled it. Real words are still never learned and never touched. (3) Nothing starts while the app is processing: while the thre",
+  "build": 4676,
+  "url": "https://fabledflow.com/downloads/Fabled-Flow_v10.4_2026-11-06_b4676.dmg",
+  "sha256": "1a72a6039e4dc0f0e5568d90991abc31f8f5c408a22fc76e16732f92573b8e73",
+  "notes": "v10.4 BUILD REFRESH (2026-11-06, b4676 — the fourteenth cut — addresses learn at their core, no fuzzy rewriting of real words, nothing starts while your text is landing, FluidAudio 0.18.2, notarized): (1) Your email and web-address corrections now count toward one target however the speech model misspelled it: the pairs the app already holds are folded to their core (an email's local part, an address's stem) when the app starts, so three corrections of one address arm it, and a learned core fixes the address in any form — upperviewsimui.com becomes upperviewsamui.com once upperviewsamui is learned. (2) The dictionary's fuzzy matching never rewrites a phrase of real English words any more: \"made so\" stays \"made so\" even though a places entry \"Mae Sot\" sounds alike; an entry still applies when its exact spoken form is said. (3) The speech engine library moves to FluidAudio 0.18.2: it repairs gaps at window seams, joins words split across a window, and recovers dropped opening speech on i",
   "winVersion": "4.4",
   "winUrl": "https://fabledflow.com/downloads/Fabled-Flow-Windows_win-v4.4_2026-11-06.zip",
   "winSha256": "52118d633fbc214394b93ea869a6de79d2e003622f2bdb6ec2dc316188b070ae",
   "winMirrorUrl": "https://github.com/Lume-Apps/FabledFlow/releases/download/win-v4.4/Fabled-Flow-Windows_win-v4.4_2026-11-06.zip",
-  "mirrorUrl": "https://github.com/Lume-Apps/fabled-flow-releases/releases/download/v10.4-b4666/Fabled-Flow_v10.4_2026-11-06_b4666.dmg"
+  "mirrorUrl": "https://github.com/Lume-Apps/fabled-flow-releases/releases/download/v10.4-b4676/Fabled-Flow_v10.4_2026-11-06_b4676.dmg"
 }
