@@ -1,12 +1,12 @@
 {
   "version": "10.4",
-  "build": 4682,
-  "url": "https://fabledflow.com/downloads/Fabled-Flow_v10.4_2026-11-07_b4682.dmg",
-  "sha256": "97105b16ac9c6d7e641cc585309501ae030a3b38801f5266d0270d3866b84608",
-  "notes": "v10.4 BUILD REFRESH (2026-11-07, b4682 — the fifteenth cut — the wake's letter never stays, accent 1.4 names each speaker on the benchmark, Windows win-v4.5, notarized): (1) The wake's letter never stays: when Fabled Flow types a letter to wake a sleepy text field, it now re-reads the field for up to 600 ms, and the paste itself checks the text before the cursor and deletes the letter before pasting — your text never lands behind it (ROW 1732). (2) The wake is no longer refused by a container that claims a selection: only a real text field's selection stops it (the 23:47 card on 4677 was this refusal). (3) Accent 1.4 — the benchmark names each additional speaker (\"Speaker 2:\") from the diarizer's turns; a display rule on the benchmark lane, the scored words unchanged; measured on two-voice clips with exact boundaries. (4) Windows win-v4.5 ships beside this cut: the start gate through the paste (no new dictation while your text is still landing, said on the pill), the wake throttle (at ",
+  "build": 4689,
+  "url": "https://fabledflow.com/downloads/Fabled-Flow_v10.4_2026-11-07_b4689.dmg",
+  "sha256": "afcc96b04a98fa67ca2ad214ba3e9ca92ac1e3845afa027c002c99bd123b2159",
+  "notes": "v10.4 BUILD REFRESH (2026-11-07, b4689 — the sixteenth cut — text lands, press again, record; the focus wake can never take your text; Windows win-v4.6, notarized): (1) The hold after a paste is gone: the moment your text has landed you can press the function key again and record — no \"Still working on your last dictation…\" notice, no wait. The only thing that still refuses a start is a decode in progress, and it ends the instant the text is posted. (2) The focus wake (the letter typed and deleted to wake a sleepy text field) now carries confirmation logic: it never fires within ten seconds of a paste; it never types into a field it cannot read (it moves the caret with an arrow key instead, which can delete nothing); and it reads the field's length before and after — if anything was lost it presses ⌘Z at once and shows the card. Your text can no longer vanish under a wake. (3) Windows win-v4.6 carries the same three rules and the same removal of the hold and its notice. Notarized by Ap",
   "winVersion": "4.6",
   "winUrl": "https://fabledflow.com/downloads/Fabled-Flow-Windows_win-v4.6_2026-11-07.zip",
   "winSha256": "2fe85236f6589e6412bd338e9c24ded364586e4b8365533281906129dbcb26fe",
   "winMirrorUrl": "https://github.com/Lume-Apps/FabledFlow/releases/download/win-v4.6/Fabled-Flow-Windows_win-v4.6_2026-11-07.zip",
-  "mirrorUrl": "https://github.com/Lume-Apps/fabled-flow-releases/releases/download/v10.4-b4682/Fabled-Flow_v10.4_2026-11-07_b4682.dmg"
+  "mirrorUrl": "https://github.com/Lume-Apps/fabled-flow-releases/releases/download/v10.4-b4689/Fabled-Flow_v10.4_2026-11-07_b4689.dmg"
 }
