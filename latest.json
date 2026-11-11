@@ -4,9 +4,9 @@
   "url": "https://fabledflow.com/downloads/Fabled-Flow_v10.4_2026-11-07_b4689.dmg",
   "sha256": "afcc96b04a98fa67ca2ad214ba3e9ca92ac1e3845afa027c002c99bd123b2159",
   "notes": "v10.4 BUILD REFRESH (2026-11-07, b4689 — the sixteenth cut — text lands, press again, record; the focus wake can never take your text; Windows win-v4.6, notarized): (1) The hold after a paste is gone: the moment your text has landed you can press the function key again and record — no \"Still working on your last dictation…\" notice, no wait. The only thing that still refuses a start is a decode in progress, and it ends the instant the text is posted. (2) The focus wake (the letter typed and deleted to wake a sleepy text field) now carries confirmation logic: it never fires within ten seconds of a paste; it never types into a field it cannot read (it moves the caret with an arrow key instead, which can delete nothing); and it reads the field's length before and after — if anything was lost it presses ⌘Z at once and shows the card. Your text can no longer vanish under a wake. (3) Windows win-v4.6 carries the same three rules and the same removal of the hold and its notice. Notarized by Ap",
-  "winVersion": "4.6",
-  "winUrl": "https://fabledflow.com/downloads/Fabled-Flow-Windows_win-v4.6_2026-11-07.zip",
-  "winSha256": "2fe85236f6589e6412bd338e9c24ded364586e4b8365533281906129dbcb26fe",
-  "winMirrorUrl": "https://github.com/Lume-Apps/FabledFlow/releases/download/win-v4.6/Fabled-Flow-Windows_win-v4.6_2026-11-07.zip",
+  "winVersion": "4.7",
+  "winUrl": "https://fabledflow.com/downloads/Fabled-Flow-Windows_win-v4.7_2026-11-11.zip",
+  "winSha256": "03a646a00f1293df8ca4e8afdc7b1102d1215bd064dd5462c216cff1f4982909",
+  "winMirrorUrl": "https://github.com/Lume-Apps/FabledFlow/releases/download/win-v4.7/Fabled-Flow-Windows_win-v4.7_2026-11-11.zip",
   "mirrorUrl": "https://github.com/Lume-Apps/fabled-flow-releases/releases/download/v10.4-b4689/Fabled-Flow_v10.4_2026-11-07_b4689.dmg"
 }
