@@ -1,12 +1,12 @@
 {
   "version": "10.4",
-  "build": 4747,
-  "url": "https://fabledflow.com/downloads/Fabled-Flow_v10.4_2026-11-14_b4747.dmg",
-  "sha256": "fca28fc9f6e46fb41a423194e9076c3a3fc049af28fbe9ce037eb7419ed97346",
-  "notes": "v10.4 BUILD REFRESH (2026-11-14, b4747 — the seventeenth cut — no word lost where there is sound; the highlight ready at landing; your first word stays; for is not 4; one sound is one word; Google Sheets, notarized): (1) The first word of a dictation is no longer lost. The engine had heard the \"I\" of \"I ran the terminal command\", but the silent-span rule deleted it: at the start of speech the decoder stamps a word slightly ahead of its sound, and the rule read that stamp as silence. The rule now recognises a stamp that runs ahead of the sound (the next word follows without a gap and its own stamp also starts in silence) and never deletes such a word. (2) \"One try\" stays English. \"Will the local one try to overwrite\" came out as \"the local TRY 1 to overwrite\" because the currency rule read \"one try\" as one Turkish lira. A currency code that is also an English word (try, rub, cad) now needs an amount of two or more. (3) \"For\" is no longer written as the number 4. When the ear writes a ba",
+  "build": 4755,
+  "url": "https://fabledflow.com/downloads/Fabled-Flow_v10.4_2026-11-15_b4755.dmg",
+  "sha256": "231eb40b02149b9b42f988692449d0caff4509f977ddede78767a9e791f623e9",
+  "notes": "v10.4 BUILD REFRESH (2026-11-15, b4755 — the eighteenth cut — a web address is never an email; a word is only swapped for one that sounds like it; one address is written once, notarized): (1) A web address is no longer turned into an email address. \"Create a new page at www.example.com forward slash BB\" was pasted as \"page@www.example.com\": since August, any word followed by \"at\" and a domain was assembled as an email address. An address that opens with \"www\", or that is followed by a path, is a website, and \"at\" stays a word. \"John at example.com\" still becomes an email address. (2) A word is only replaced by one that sounds like it. A rule that replaces a capitalised word you have never used with a similar word from your own vocabulary turned \"Sonor\" into \"Silero\", because their consonants were one letter apart. The replacement now also needs the same number of syllables and near-identical consonants, and the rule stands down when the unknown word sits beside a word that begins the s",
   "winVersion": "4.8",
   "winUrl": "https://fabledflow.com/downloads/Fabled-Flow-Windows_win-v4.8_2026-11-14.zip",
   "winSha256": "77812347c29656c61570ec17d4d746928d7ffaef89d43c0bda4628f7405e7f9c",
   "winMirrorUrl": "https://github.com/Lume-Apps/FabledFlow/releases/download/win-v4.8/Fabled-Flow-Windows_win-v4.8_2026-11-14.zip",
-  "mirrorUrl": "https://github.com/Lume-Apps/fabled-flow-releases/releases/download/v10.4-b4747/Fabled-Flow_v10.4_2026-11-14_b4747.dmg"
+  "mirrorUrl": "https://github.com/Lume-Apps/fabled-flow-releases/releases/download/v10.4-b4755/Fabled-Flow_v10.4_2026-11-15_b4755.dmg"
 }
