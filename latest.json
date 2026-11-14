@@ -1,12 +1,12 @@
 {
   "version": "10.4",
-  "build": 4689,
-  "url": "https://fabledflow.com/downloads/Fabled-Flow_v10.4_2026-11-07_b4689.dmg",
-  "sha256": "afcc96b04a98fa67ca2ad214ba3e9ca92ac1e3845afa027c002c99bd123b2159",
-  "notes": "v10.4 BUILD REFRESH (2026-11-07, b4689 — the sixteenth cut — text lands, press again, record; the focus wake can never take your text; Windows win-v4.6, notarized): (1) The hold after a paste is gone: the moment your text has landed you can press the function key again and record — no \"Still working on your last dictation…\" notice, no wait. The only thing that still refuses a start is a decode in progress, and it ends the instant the text is posted. (2) The focus wake (the letter typed and deleted to wake a sleepy text field) now carries confirmation logic: it never fires within ten seconds of a paste; it never types into a field it cannot read (it moves the caret with an arrow key instead, which can delete nothing); and it reads the field's length before and after — if anything was lost it presses ⌘Z at once and shows the card. Your text can no longer vanish under a wake. (3) Windows win-v4.6 carries the same three rules and the same removal of the hold and its notice. Notarized by Ap",
+  "build": 4747,
+  "url": "https://fabledflow.com/downloads/Fabled-Flow_v10.4_2026-11-14_b4747.dmg",
+  "sha256": "fca28fc9f6e46fb41a423194e9076c3a3fc049af28fbe9ce037eb7419ed97346",
+  "notes": "v10.4 BUILD REFRESH (2026-11-14, b4747 — the seventeenth cut — no word lost where there is sound; the highlight ready at landing; your first word stays; for is not 4; one sound is one word; Google Sheets, notarized): (1) The first word of a dictation is no longer lost. The engine had heard the \"I\" of \"I ran the terminal command\", but the silent-span rule deleted it: at the start of speech the decoder stamps a word slightly ahead of its sound, and the rule read that stamp as silence. The rule now recognises a stamp that runs ahead of the sound (the next word follows without a gap and its own stamp also starts in silence) and never deletes such a word. (2) \"One try\" stays English. \"Will the local one try to overwrite\" came out as \"the local TRY 1 to overwrite\" because the currency rule read \"one try\" as one Turkish lira. A currency code that is also an English word (try, rub, cad) now needs an amount of two or more. (3) \"For\" is no longer written as the number 4. When the ear writes a ba",
   "winVersion": "4.7",
   "winUrl": "https://fabledflow.com/downloads/Fabled-Flow-Windows_win-v4.7_2026-11-11.zip",
   "winSha256": "03a646a00f1293df8ca4e8afdc7b1102d1215bd064dd5462c216cff1f4982909",
   "winMirrorUrl": "https://github.com/Lume-Apps/FabledFlow/releases/download/win-v4.7/Fabled-Flow-Windows_win-v4.7_2026-11-11.zip",
-  "mirrorUrl": "https://github.com/Lume-Apps/fabled-flow-releases/releases/download/v10.4-b4689/Fabled-Flow_v10.4_2026-11-07_b4689.dmg"
+  "mirrorUrl": "https://github.com/Lume-Apps/fabled-flow-releases/releases/download/v10.4-b4747/Fabled-Flow_v10.4_2026-11-14_b4747.dmg"
 }
