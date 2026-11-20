@@ -4,9 +4,9 @@
   "url": "https://fabledflow.com/downloads/Fabled-Flow_v10.4_2026-11-20_b4770.dmg",
   "sha256": "5658fc119f7ec5c70d423ffb987852b0785a453e51967a2a1b859ad0c3365605",
   "notes": "v10.4 BUILD REFRESH (2026-11-20, b4770 — the twentieth cut — a price keeps its decimals; spelled letters stand together; your own corrections learn without asking, notarized): (1) A price with decimals is written whole. \"8.79 USD\" came out as \"8.USD 79\" because the amount rule did not know decimals and took the \"79\" for a number of its own. A currency code now goes in front of the whole amount (\"USD 8.79\", \"HKD 1,200.50\"), and an amount with cents takes its symbol (\"8.79 dollars\" is \"$8.79\"). (2) Letters you spell stand together. The speech engine writes spelled letters with dashes (\"N-A- T-E-H-E-R-K\"). The dashes are removed and the letters are written together in capitals, whatever they spell. A leading \"A\" is no longer lost from a spelled run. (3) Your own corrections learn without an approval. A made-up word that you correct into two or three words (\"Crownface\" to \"Crown Faith\") used to wait in Suggested fixes. It now learns in the self-corrections list like any other correction, a",
-  "winVersion": "4.9",
-  "winUrl": "https://fabledflow.com/downloads/Fabled-Flow-Windows_win-v4.9_2026-11-20.zip",
-  "winSha256": "af93b58e99119f40ddb32e288ca1a8b0b70c491a8d9a7a4cea3610f28bc38489",
-  "winMirrorUrl": "https://github.com/Lume-Apps/FabledFlow/releases/download/win-v4.9/Fabled-Flow-Windows_win-v4.9_2026-11-20.zip",
+  "winVersion": "5.0",
+  "winUrl": "https://fabledflow.com/downloads/Fabled-Flow-Windows_win-v5.0_2026-11-20.zip",
+  "winSha256": "98f3fdcb165b84c7752eb5a3a31d252e4246d64acee988358ad080d778b72ffd",
+  "winMirrorUrl": "https://github.com/Lume-Apps/FabledFlow/releases/download/win-v5.0/Fabled-Flow-Windows_win-v5.0_2026-11-20.zip",
   "mirrorUrl": "https://github.com/Lume-Apps/fabled-flow-releases/releases/download/v10.4-b4770/Fabled-Flow_v10.4_2026-11-20_b4770.dmg"
 }
