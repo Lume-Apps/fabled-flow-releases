@@ -4,9 +4,9 @@
   "url": "https://fabledflow.com/downloads/Fabled-Flow_v10.4_2026-11-20_b4772.dmg",
   "sha256": "d4da785416ca3756a670e7a05b66b0795866396ff24d9414599ea9c5c38d675a",
   "notes": "v10.4 BUILD REFRESH (2026-11-20, b4772 — the twenty-first cut — the sound of a name now helps your own corrections; a correction must repeat within a month; a notice when a new paragraph is ready, notarized): (1) The sound of a word now works with your own corrections. The speech engine writes a name it does not know a new way each time (\"Bet24\", \"Bets24\", \"Betz24\" for one spoken name), and each new spelling used to wait for three more corrections. When the engine now writes a made-up word that is spelled near one of your established words, Fabled Flow compares the sound of what you said with the sound of that word from the times you said it before. A clear match writes your word. A real word is never touched, and when the match is not clear nothing changes. On the owner's own recordings this corrected five of five wrong spellings of one name and changed nothing in forty control recordings. Only a shape of the sound is kept, never audio, and it stays on this Mac. (2) A correction must ",
-  "winVersion": "5.0",
-  "winUrl": "https://fabledflow.com/downloads/Fabled-Flow-Windows_win-v5.0_2026-11-20.zip",
-  "winSha256": "98f3fdcb165b84c7752eb5a3a31d252e4246d64acee988358ad080d778b72ffd",
-  "winMirrorUrl": "https://github.com/Lume-Apps/FabledFlow/releases/download/win-v5.0/Fabled-Flow-Windows_win-v5.0_2026-11-20.zip",
+  "winVersion": "5.1",
+  "winUrl": "https://fabledflow.com/downloads/Fabled-Flow-Windows_win-v5.1_2026-11-20.zip",
+  "winSha256": "9e08b99417a8f048a53424f2f71a87e733003c5e31b7c194e4a623c7fde47cd8",
+  "winMirrorUrl": "https://github.com/Lume-Apps/FabledFlow/releases/download/win-v5.1/Fabled-Flow-Windows_win-v5.1_2026-11-20.zip",
   "mirrorUrl": "https://github.com/Lume-Apps/fabled-flow-releases/releases/download/v10.4-b4772/Fabled-Flow_v10.4_2026-11-20_b4772.dmg"
 }
