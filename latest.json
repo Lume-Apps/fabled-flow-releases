@@ -4,9 +4,9 @@
   "url": "https://fabledflow.com/downloads/Fabled-Flow_v10.4_2026-11-20_b4762.dmg",
   "sha256": "74f3f5bd0e6a35aa28d60dd6fac5b347ad2f65f59d09546d5a1584612558c2ff",
   "notes": "v10.4 BUILD REFRESH (2026-11-20, b4762 — the nineteenth cut — nothing is written where nothing was said; spelled letters stay as spelled; a word is not an acronym, notarized): (1) Nothing is added where nothing was said. When the key was held after the speaker had stopped, a recovery step that listens a second time could write words over the quiet (\"…and I want you\" came out with five invented words after it). Every word that step wants to add must now have a timestamp and real sound under it; a word without them is refused. A doubted ending over a silent tail that no second listen can hear is refused as well. (2) Letters you spell stay as you spelled them. \"Nikki, N-I-K-I\" lost its spelled letters because they were read as a garbled repeat of the word before. A form spelled letter by letter is never collapsed into its neighbour. (3) A word in capitals is not an acronym. \"Shot 1\" was written \"SHOT1\" because any capital-letter token before a number was glued to it. A common English word",
-  "winVersion": "4.8",
-  "winUrl": "https://fabledflow.com/downloads/Fabled-Flow-Windows_win-v4.8_2026-11-14.zip",
-  "winSha256": "77812347c29656c61570ec17d4d746928d7ffaef89d43c0bda4628f7405e7f9c",
-  "winMirrorUrl": "https://github.com/Lume-Apps/FabledFlow/releases/download/win-v4.8/Fabled-Flow-Windows_win-v4.8_2026-11-14.zip",
+  "winVersion": "4.9",
+  "winUrl": "https://fabledflow.com/downloads/Fabled-Flow-Windows_win-v4.9_2026-11-20.zip",
+  "winSha256": "af93b58e99119f40ddb32e288ca1a8b0b70c491a8d9a7a4cea3610f28bc38489",
+  "winMirrorUrl": "https://github.com/Lume-Apps/FabledFlow/releases/download/win-v4.9/Fabled-Flow-Windows_win-v4.9_2026-11-20.zip",
   "mirrorUrl": "https://github.com/Lume-Apps/fabled-flow-releases/releases/download/v10.4-b4762/Fabled-Flow_v10.4_2026-11-20_b4762.dmg"
 }
