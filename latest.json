@@ -1,12 +1,12 @@
 {
   "version": "10.4",
-  "build": 4779,
-  "url": "https://fabledflow.com/downloads/Fabled-Flow_v10.4_2026-11-21_b4779.dmg",
-  "sha256": "7069aeb8fe69b50b64a55c1aad308e0accfce65707999770773d92a41f918aa5",
-  "notes": "v10.4 BUILD REFRESH (2026-11-21, b4779 — the twenty-second cut — words you said are never merged into one; a spoken word is never called a phantom; prices and spelled letters, notarized): (1) Words you said are never merged into one. The absolute truth rule now also runs as the last step, after every other rule: when two or more real words that were heard have been written as fewer words, the change is undone. This is what turned \"sale to\" into a Dictionary name. What may still join heard words: numbers, prices and addresses; the same letters with the space removed; your own stutter and filler settings; a name you taught by correcting it repeatedly and said without a pause; a Dictionary entry said exactly; and a join made by the pause rule (words said with no gap between them that sound like one word), which is left exactly as before. (2) A word you said is no longer marked as a possible phantom. History marked a word as \"possibly never spoken\" when the app itself had respelled it from",
+  "build": 4822,
+  "url": "https://fabledflow.com/downloads/Fabled-Flow_v10.4_2026-11-24_b4822.dmg",
+  "sha256": "d82999707549eb9a19ff2300b6f377be23bf9ff1eb18c8c1e41e4d59163e0b70",
+  "notes": "v10.4 BUILD REFRESH (2026-11-24, b4822 — the twenty-third cut — small words are never glued into a word you never use; a name you correct three times is learned, notarized): (1) Small words are never glued into a word you never use. Words said in one breath are joined into one longer word only when that word is yours: your History holds it, or you named it as the right word in a report. \"In broad daylight\" stays \"in broad daylight\"; it is no longer written \"inboard daylight\". On our 3,000-recording check this repair corrects 20 recordings and breaks none. (2) A name you correct by hand three times is learned. This now holds for a short name of three letters, for a name of two words, and for the possessive of a name. The corrections are read in any app, and a correction typed letter by letter is counted once, when you finish it. (3) A spelling you taught is never overwritten by a loose Dictionary match. An entry's exact spoken form still wins; only the near-miss match stands down on a w",
   "winVersion": "5.2",
   "winUrl": "https://fabledflow.com/downloads/Fabled-Flow-Windows_win-v5.2_2026-11-21.zip",
   "winSha256": "9a50fcf4967e5072434ad7d754f9d1f0b76dbacef9333e9f05428df539c24d3a",
   "winMirrorUrl": "https://github.com/Lume-Apps/FabledFlow/releases/download/win-v5.2/Fabled-Flow-Windows_win-v5.2_2026-11-21.zip",
-  "mirrorUrl": "https://github.com/Lume-Apps/fabled-flow-releases/releases/download/v10.4-b4779/Fabled-Flow_v10.4_2026-11-21_b4779.dmg"
+  "mirrorUrl": "https://github.com/Lume-Apps/fabled-flow-releases/releases/download/v10.4-b4822/Fabled-Flow_v10.4_2026-11-24_b4822.dmg"
 }
