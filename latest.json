@@ -4,9 +4,9 @@
   "url": "https://fabledflow.com/downloads/Fabled-Flow_v10.4_2026-11-24_b4822.dmg",
   "sha256": "d82999707549eb9a19ff2300b6f377be23bf9ff1eb18c8c1e41e4d59163e0b70",
   "notes": "v10.4 BUILD REFRESH (2026-11-24, b4822 — the twenty-third cut — small words are never glued into a word you never use; a name you correct three times is learned, notarized): (1) Small words are never glued into a word you never use. Words said in one breath are joined into one longer word only when that word is yours: your History holds it, or you named it as the right word in a report. \"In broad daylight\" stays \"in broad daylight\"; it is no longer written \"inboard daylight\". On our 3,000-recording check this repair corrects 20 recordings and breaks none. (2) A name you correct by hand three times is learned. This now holds for a short name of three letters, for a name of two words, and for the possessive of a name. The corrections are read in any app, and a correction typed letter by letter is counted once, when you finish it. (3) A spelling you taught is never overwritten by a loose Dictionary match. An entry's exact spoken form still wins; only the near-miss match stands down on a w",
-  "winVersion": "5.3",
-  "winUrl": "https://fabledflow.com/downloads/Fabled-Flow-Windows_win-v5.3_2026-11-24.zip",
-  "winSha256": "7178201002411936a62d65445ba7bd6e2877b18eb4b8802160c09814e449f5bb",
-  "winMirrorUrl": "https://github.com/Lume-Apps/FabledFlow/releases/download/win-v5.3/Fabled-Flow-Windows_win-v5.3_2026-11-24.zip",
+  "winVersion": "5.4",
+  "winUrl": "https://fabledflow.com/downloads/Fabled-Flow-Windows_win-v5.4_2026-11-24.zip",
+  "winSha256": "a12d69f6408be5dfbd3736224e918c827d5369ce71d7fffb3612804c564771cc",
+  "winMirrorUrl": "https://github.com/Lume-Apps/FabledFlow/releases/download/win-v5.4/Fabled-Flow-Windows_win-v5.4_2026-11-24.zip",
   "mirrorUrl": "https://github.com/Lume-Apps/fabled-flow-releases/releases/download/v10.4-b4822/Fabled-Flow_v10.4_2026-11-24_b4822.dmg"
 }
